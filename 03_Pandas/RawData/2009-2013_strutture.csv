@@ -1,0 +1,1145 @@
+DATA;COD_Ateneo;NOME_ATENEO;CODICE_STRUTTURA;DESCRIZIONE_STRUTTURA;NUMERO_STRUTTURE;POSTI_DISPONIBILI
+01/11/09;00101;Torino - Università degli studi;01 ;Mense;0;0
+01/11/09;00101;Torino - Università degli studi;02 ;Residenze;0;0
+01/11/09;00102;Torino - Politecnico;01 ;Mense;0;0
+01/11/09;00102;Torino - Politecnico;02 ;Residenze;0;0
+01/11/09;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";01 ;Mense;0;0
+01/11/09;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";02 ;Residenze;0;0
+01/11/09;00401;Bra (CN) - Università di Scienze Gastronomiche;01 ;Mense;0;0
+01/11/09;00401;Bra (CN) - Università di Scienze Gastronomiche;02 ;Residenze;0;0
+01/11/09;00701;Aosta - Università degli studi;01 ;Mense;0;0
+01/11/09;00701;Aosta - Università degli studi;02 ;Residenze;0;0
+01/11/09;01001;Genova - Università degli studi;01 ;Mense;0;0
+01/11/09;01001;Genova - Università degli studi;02 ;Residenze;0;0
+01/11/09;01201;"Castellanza - Università ""Carlo Cattaneo""";01 ;Mense;0;0
+01/11/09;01201;"Castellanza - Università ""Carlo Cattaneo""";02 ;Residenze;0;0
+01/11/09;01202;Varese - Università dell' Insubria;01 ;Mense;0;0
+01/11/09;01202;Varese - Università dell' Insubria;02 ;Residenze;0;0
+01/11/09;01301;"Novedrate (CO) - Università telematica ""e-Campus""";01 ;Mense;1;150
+01/11/09;01301;"Novedrate (CO) - Università telematica ""e-Campus""";02 ;Residenze;1;260
+01/11/09;01501;Milano - Università degli studi;01 ;Mense;0;0
+01/11/09;01501;Milano - Università degli studi;02 ;Residenze;0;0
+01/11/09;01502;Milano - Politecnico;01 ;Mense;0;0
+01/11/09;01502;Milano - Politecnico;02 ;Residenze;18;1453
+01/11/09;01503;"Milano - Università commerciale ""Luigi Bocconi""";01 ;Mense;0;0
+01/11/09;01503;"Milano - Università commerciale ""Luigi Bocconi""";02 ;Residenze;0;0
+01/11/09;01504;"Milano - Università Cattolica del ""Sacro Cuore""";01 ;Mense;0;0
+01/11/09;01504;"Milano - Università Cattolica del ""Sacro Cuore""";02 ;Residenze;0;0
+01/11/09;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);01 ;Mense;1;344
+01/11/09;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);02 ;Residenze;1;14
+01/11/09;01508;Milano - Università Vita-Salute San Raffaele;01 ;Mense;0;0
+01/11/09;01508;Milano - Università Vita-Salute San Raffaele;02 ;Residenze;1;35
+01/11/09;01509;Milano-Bicocca - Università degli studi;01 ;Mense;0;0
+01/11/09;01509;Milano-Bicocca - Università degli studi;02 ;Residenze;0;0
+01/11/09;01510;"Milano - Università telematica internazionale ""UNITEL""";01 ;Mense;0;0
+01/11/09;01510;"Milano - Università telematica internazionale ""UNITEL""";02 ;Residenze;0;0
+01/11/09;01601;Bergamo - Università degli studi;01 ;Mense;0;0
+01/11/09;01601;Bergamo - Università degli studi;02 ;Residenze;0;0
+01/11/09;01701;Brescia - Università degli studi;01 ;Mense;0;0
+01/11/09;01701;Brescia - Università degli studi;02 ;Residenze;0;0
+01/11/09;01801;Pavia - Università degli studi;01 ;Mense;0;0
+01/11/09;01801;Pavia - Università degli studi;02 ;Residenze;0;0
+01/11/09;01802;Pavia - Istituto universitario di studi superiori;01 ;Mense;0;0
+01/11/09;01802;Pavia - Istituto universitario di studi superiori;02 ;Residenze;0;0
+01/11/09;02101;Bolzano - Libera Università;01 ;Mense;0;0
+01/11/09;02101;Bolzano - Libera Università;02 ;Residenze;0;0
+01/11/09;02201;Trento - Università degli studi;01 ;Mense;0;0
+01/11/09;02201;Trento - Università degli studi;02 ;Residenze;0;0
+01/11/09;02301;Verona - Università degli studi;01 ;Mense;0;0
+01/11/09;02301;Verona - Università degli studi;02 ;Residenze;0;0
+01/11/09;02701;"Venezia - Università degli studi ""Cà Foscari""";01 ;Mense;0;0
+01/11/09;02701;"Venezia - Università degli studi ""Cà Foscari""";02 ;Residenze;0;0
+01/11/09;02702;Venezia - Università IUAV;01 ;Mense;0;0
+01/11/09;02702;Venezia - Università IUAV;02 ;Residenze;0;0
+01/11/09;02801;Padova - Università degli studi;01 ;Mense;0;0
+01/11/09;02801;Padova - Università degli studi;02 ;Residenze;0;0
+01/11/09;03001;Udine - Università degli studi;01 ;Mense;0;0
+01/11/09;03001;Udine - Università degli studi;02 ;Residenze;0;0
+01/11/09;03201;Trieste - Università degli studi;01 ;Mense;0;0
+01/11/09;03201;Trieste - Università degli studi;02 ;Residenze;0;0
+01/11/09;03202;Trieste - Scuola internazionale superiore di studi avanzati;01 ;Mense;0;0
+01/11/09;03202;Trieste - Scuola internazionale superiore di studi avanzati;02 ;Residenze;0;0
+01/11/09;03401;Parma - Università degli studi;01 ;Mense;0;0
+01/11/09;03401;Parma - Università degli studi;02 ;Residenze;0;0
+01/11/09;03601;Modena e Reggio Emilia - Università degli studi;01 ;Mense;0;0
+01/11/09;03601;Modena e Reggio Emilia - Università degli studi;02 ;Residenze;1;288
+01/11/09;03701;Bologna - Università degli studi;01 ;Mense;0;0
+01/11/09;03701;Bologna - Università degli studi;02 ;Residenze;1;205
+01/11/09;03801;Ferrara - Università degli studi;01 ;Mense;0;0
+01/11/09;03801;Ferrara - Università degli studi;02 ;Residenze;0;0
+01/11/09;04101;"Urbino - Università degli studi ""Carlo Bo""";01 ;Mense;0;0
+01/11/09;04101;"Urbino - Università degli studi ""Carlo Bo""";02 ;Residenze;0;0
+01/11/09;04201;Ancona - Università Politecnica delle Marche;01 ;Mense;0;0
+01/11/09;04201;Ancona - Università Politecnica delle Marche;02 ;Residenze;0;0
+01/11/09;04301;Macerata - Università degli studi;01 ;Mense;0;0
+01/11/09;04301;Macerata - Università degli studi;02 ;Residenze;6;134
+01/11/09;04302;Camerino - Università degli studi;01 ;Mense;0;0
+01/11/09;04302;Camerino - Università degli studi;02 ;Residenze;0;0
+01/11/09;04601;Lucca - Scuola IMT Alti Studi;01 ;Mense;1;100
+01/11/09;04601;Lucca - Scuola IMT Alti Studi;02 ;Residenze;1;65
+01/11/09;04801;Firenze - Università degli studi;01 ;Mense;0;0
+01/11/09;04801;Firenze - Università degli studi;02 ;Residenze;0;0
+01/11/09;04803;Firenze - Istituto Italiano di Scienze Umane;01 ;Mense;0;0
+01/11/09;04803;Firenze - Istituto Italiano di Scienze Umane;02 ;Residenze;0;0
+01/11/09;04804;"Firenze - Università telematica ""Italian University line""";01 ;Mense;0;0
+01/11/09;04804;"Firenze - Università telematica ""Italian University line""";02 ;Residenze;0;0
+01/11/09;05001;Pisa - Università degli studi;01 ;Mense;0;0
+01/11/09;05001;Pisa - Università degli studi;02 ;Residenze;0;0
+01/11/09;05002;Pisa - Scuola normale superiore;01 ;Mense;1;270
+01/11/09;05002;Pisa - Scuola normale superiore;02 ;Residenze;4;309
+01/11/09;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";01 ;Mense;1;120
+01/11/09;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";02 ;Residenze;4;218
+01/11/09;05201;Siena - Università degli studi;01 ;Mense;1;80
+01/11/09;05201;Siena - Università degli studi;02 ;Residenze;2;160
+01/11/09;05202;Siena - Università per stranieri;01 ;Mense;0;0
+01/11/09;05202;Siena - Università per stranieri;02 ;Residenze;0;0
+01/11/09;05401;Perugia - Università degli studi;01 ;Mense;0;0
+01/11/09;05401;Perugia - Università degli studi;02 ;Residenze;0;0
+01/11/09;05403;Perugia - Università per stranieri;01 ;Mense;0;0
+01/11/09;05403;Perugia - Università per stranieri;02 ;Residenze;0;0
+01/11/09;05601;Viterbo - Università della Tuscia;01 ;Mense;0;0
+01/11/09;05601;Viterbo - Università della Tuscia;02 ;Residenze;0;0
+01/11/09;05801;"Roma - Università degli studi ""La Sapienza""";01 ;Mense;0;0
+01/11/09;05801;"Roma - Università degli studi ""La Sapienza""";02 ;Residenze;0;0
+01/11/09;05802;"Roma - Università degli studi di ""Tor Vergata""";01 ;Mense;0;0
+01/11/09;05802;"Roma - Università degli studi di ""Tor Vergata""";02 ;Residenze;0;0
+01/11/09;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);01 ;Mense;0;0
+01/11/09;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);02 ;Residenze;2;41
+01/11/09;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);01 ;Mense;0;0
+01/11/09;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);02 ;Residenze;1;87
+01/11/09;05806;"Roma - Università degli studi del ""Foro Italico""";01 ;Mense;0;0
+01/11/09;05806;"Roma - Università degli studi del ""Foro Italico""";02 ;Residenze;0;0
+01/11/09;05807;Roma - III Università degli studi;01 ;Mense;0;0
+01/11/09;05807;Roma - III Università degli studi;02 ;Residenze;0;0
+01/11/09;05808;"Roma - Università ""Campus Bio-Medico""";01 ;Mense;0;0
+01/11/09;05808;"Roma - Università ""Campus Bio-Medico""";02 ;Residenze;0;0
+01/11/09;05809;Roma - Libera Università degli studi San Pio V;01 ;Mense;0;0
+01/11/09;05809;Roma - Libera Università degli studi San Pio V;02 ;Residenze;0;0
+01/11/09;05810;"Roma - Università telematica ""Guglielmo Marconi""";01 ;Mense;0;0
+01/11/09;05810;"Roma - Università telematica ""Guglielmo Marconi""";02 ;Residenze;0;0
+01/11/09;05811;"Roma - Università telematica ""TEL.M.A.""";01 ;Mense;0;0
+01/11/09;05811;"Roma - Università telematica ""TEL.M.A.""";02 ;Residenze;0;0
+01/11/09;05812;Roma - Università Europea;01 ;Mense;0;0
+01/11/09;05812;Roma - Università Europea;02 ;Residenze;0;0
+01/11/09;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";01 ;Mense;0;0
+01/11/09;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";02 ;Residenze;0;0
+01/11/09;05814;Roma - Universitas Mercatorum;01 ;Mense;0;0
+01/11/09;05814;Roma - Universitas Mercatorum;02 ;Residenze;0;0
+01/11/09;05815;Roma - Università telematica delle Scienze Umane UNISU;01 ;Mense;0;0
+01/11/09;05815;Roma - Università telematica delle Scienze Umane UNISU;02 ;Residenze;0;0
+01/11/09;06001;Cassino - Università degli studi;01 ;Mense;0;0
+01/11/09;06001;Cassino - Università degli studi;02 ;Residenze;0;0
+01/11/09;06201;Benevento - Università degli studi del Sannio;01 ;Mense;0;0
+01/11/09;06201;Benevento - Università degli studi del Sannio;02 ;Residenze;1;74
+01/11/09;06202;"Benevento - Università telematica ""Giustino Fortunato""";01 ;Mense;0;0
+01/11/09;06202;"Benevento - Università telematica ""Giustino Fortunato""";02 ;Residenze;0;0
+01/11/09;06301;"Napoli - Università degli studi ""Federico II""";01 ;Mense;0;0
+01/11/09;06301;"Napoli - Università degli studi ""Federico II""";02 ;Residenze;0;0
+01/11/09;06302;"Napoli - Università degli studi ""Parthenope""";01 ;Mense;0;0
+01/11/09;06302;"Napoli - Università degli studi ""Parthenope""";02 ;Residenze;0;0
+01/11/09;06303;"Napoli - Università degli studi ""L' Orientale""";01 ;Mense;0;0
+01/11/09;06303;"Napoli - Università degli studi ""L' Orientale""";02 ;Residenze;0;0
+01/11/09;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";01 ;Mense;0;0
+01/11/09;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";02 ;Residenze;1;80
+01/11/09;06306;Napoli - Seconda Università degli studi;01 ;Mense;0;0
+01/11/09;06306;Napoli - Seconda Università degli studi;02 ;Residenze;0;0
+01/11/09;06307;"Napoli - Università telematica ""Pegaso""";01 ;Mense;0;0
+01/11/09;06307;"Napoli - Università telematica ""Pegaso""";02 ;Residenze;0;0
+01/11/09;06501;Salerno - Università degli studi;01 ;Mense;0;0
+01/11/09;06501;Salerno - Università degli studi;02 ;Residenze;1;20
+01/11/09;06601;L'Aquila - Università degli studi;01 ;Mense;0;0
+01/11/09;06601;L'Aquila - Università degli studi;02 ;Residenze;0;0
+01/11/09;06701;Teramo - Università degli studi;01 ;Mense;0;0
+01/11/09;06701;Teramo - Università degli studi;02 ;Residenze;0;0
+01/11/09;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;01 ;Mense;0;0
+01/11/09;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;02 ;Residenze;0;0
+01/11/09;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";01 ;Mense;0;0
+01/11/09;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";02 ;Residenze;0;0
+01/11/09;07001;Campobasso - Università degli studi del Molise;01 ;Mense;0;0
+01/11/09;07001;Campobasso - Università degli studi del Molise;02 ;Residenze;1;58
+01/11/09;07101;Foggia - Università degli studi;01 ;Mense;0;0
+01/11/09;07101;Foggia - Università degli studi;02 ;Residenze;0;0
+01/11/09;07201;Bari - Università degli studi;01 ;Mense;0;0
+01/11/09;07201;Bari - Università degli studi;02 ;Residenze;0;0
+01/11/09;07202;Bari - Politecnico;01 ;Mense;0;0
+01/11/09;07202;Bari - Politecnico;02 ;Residenze;0;0
+01/11/09;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";01 ;Mense;0;0
+01/11/09;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";02 ;Residenze;0;0
+01/11/09;07501;Lecce - Università del Salento;01 ;Mense;0;0
+01/11/09;07501;Lecce - Università del Salento;02 ;Residenze;1;76
+01/11/09;07601;Potenza - Università degli studi della Basilicata;01 ;Mense;0;0
+01/11/09;07601;Potenza - Università degli studi della Basilicata;02 ;Residenze;0;0
+01/11/09;07801;Arcavacata di Rende - Università della Calabria;01 ;Mense;0;0
+01/11/09;07801;Arcavacata di Rende - Università della Calabria;02 ;Residenze;0;0
+01/11/09;07901;"Catanzaro - Università degli studi ""Magna Grecia""";01 ;Mense;0;0
+01/11/09;07901;"Catanzaro - Università degli studi ""Magna Grecia""";02 ;Residenze;0;0
+01/11/09;08001;Reggio Calabria - Università degli studi Mediterranea;01 ;Mense;0;0
+01/11/09;08001;Reggio Calabria - Università degli studi Mediterranea;02 ;Residenze;0;0
+01/11/09;08003;Reggio Calabria - Università per Stranieri;01 ;Mense;-1;-1
+01/11/09;08003;Reggio Calabria - Università per Stranieri;02 ;Residenze;-1;-1
+01/11/09;08201;Palermo - Università degli studi;01 ;Mense;0;0
+01/11/09;08201;Palermo - Università degli studi;02 ;Residenze;0;0
+01/11/09;08301;Messina - Università degli studi;01 ;Mense;0;0
+01/11/09;08301;Messina - Università degli studi;02 ;Residenze;0;0
+01/11/09;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";01 ;Mense;1;150
+01/11/09;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";02 ;Residenze;1;36
+01/11/09;08701;Catania - Università degli studi;01 ;Mense;1;60
+01/11/09;08701;Catania - Università degli studi;02 ;Residenze;1;96
+01/11/09;09001;Sassari - Università degli studi;01 ;Mense;0;0
+01/11/09;09001;Sassari - Università degli studi;02 ;Residenze;0;0
+01/11/09;09201;Cagliari - Università degli studi;01 ;Mense;0;0
+01/11/09;09201;Cagliari - Università degli studi;02 ;Residenze;0;0
+01/11/10;00101;Torino - Università degli studi;01 ;Mense;0;0
+01/11/10;00101;Torino - Università degli studi;02 ;Residenze;0;0
+01/11/10;00102;Torino - Politecnico;01 ;Mense;0;0
+01/11/10;00102;Torino - Politecnico;02 ;Residenze;0;0
+01/11/10;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";01 ;Mense;0;0
+01/11/10;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";02 ;Residenze;0;0
+01/11/10;00401;Bra (CN) - Università di Scienze Gastronomiche;01 ;Mense;0;0
+01/11/10;00401;Bra (CN) - Università di Scienze Gastronomiche;02 ;Residenze;0;0
+01/11/10;00701;Aosta - Università degli studi;01 ;Mense;0;0
+01/11/10;00701;Aosta - Università degli studi;02 ;Residenze;0;0
+01/11/10;01001;Genova - Università degli studi;01 ;Mense;0;0
+01/11/10;01001;Genova - Università degli studi;02 ;Residenze;0;0
+01/11/10;01201;"Castellanza - Università ""Carlo Cattaneo""";01 ;Mense;0;0
+01/11/10;01201;"Castellanza - Università ""Carlo Cattaneo""";02 ;Residenze;0;0
+01/11/10;01202;Varese - Università dell' Insubria;01 ;Mense;0;0
+01/11/10;01202;Varese - Università dell' Insubria;02 ;Residenze;0;0
+01/11/10;01301;"Novedrate (CO) - Università telematica ""e-Campus""";01 ;Mense;1;86
+01/11/10;01301;"Novedrate (CO) - Università telematica ""e-Campus""";02 ;Residenze;1;257
+01/11/10;01501;Milano - Università degli studi;01 ;Mense;0;0
+01/11/10;01501;Milano - Università degli studi;02 ;Residenze;0;0
+01/11/10;01502;Milano - Politecnico;01 ;Mense;0;0
+01/11/10;01502;Milano - Politecnico;02 ;Residenze;20;1458
+01/11/10;01503;"Milano - Università commerciale ""Luigi Bocconi""";01 ;Mense;0;0
+01/11/10;01503;"Milano - Università commerciale ""Luigi Bocconi""";02 ;Residenze;0;0
+01/11/10;01504;"Milano - Università Cattolica del ""Sacro Cuore""";01 ;Mense;0;0
+01/11/10;01504;"Milano - Università Cattolica del ""Sacro Cuore""";02 ;Residenze;0;0
+01/11/10;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);01 ;Mense;1;344
+01/11/10;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);02 ;Residenze;1;14
+01/11/10;01508;Milano - Università Vita-Salute San Raffaele;01 ;Mense;0;0
+01/11/10;01508;Milano - Università Vita-Salute San Raffaele;02 ;Residenze;1;27
+01/11/10;01509;Milano-Bicocca - Università degli studi;01 ;Mense;3;412
+01/11/10;01509;Milano-Bicocca - Università degli studi;02 ;Residenze;0;0
+01/11/10;01510;"Milano - Università telematica internazionale ""UNITEL""";01 ;Mense;0;0
+01/11/10;01510;"Milano - Università telematica internazionale ""UNITEL""";02 ;Residenze;0;0
+01/11/10;01601;Bergamo - Università degli studi;01 ;Mense;0;0
+01/11/10;01601;Bergamo - Università degli studi;02 ;Residenze;0;0
+01/11/10;01701;Brescia - Università degli studi;01 ;Mense;0;0
+01/11/10;01701;Brescia - Università degli studi;02 ;Residenze;0;0
+01/11/10;01801;Pavia - Università degli studi;01 ;Mense;0;0
+01/11/10;01801;Pavia - Università degli studi;02 ;Residenze;0;0
+01/11/10;01802;Pavia - Istituto universitario di studi superiori;01 ;Mense;0;0
+01/11/10;01802;Pavia - Istituto universitario di studi superiori;02 ;Residenze;0;0
+01/11/10;02101;Bolzano - Libera Università;01 ;Mense;0;0
+01/11/10;02101;Bolzano - Libera Università;02 ;Residenze;0;0
+01/11/10;02201;Trento - Università degli studi;01 ;Mense;0;0
+01/11/10;02201;Trento - Università degli studi;02 ;Residenze;0;0
+01/11/10;02301;Verona - Università degli studi;01 ;Mense;0;0
+01/11/10;02301;Verona - Università degli studi;02 ;Residenze;0;0
+01/11/10;02701;"Venezia - Università degli studi ""Cà Foscari""";01 ;Mense;0;0
+01/11/10;02701;"Venezia - Università degli studi ""Cà Foscari""";02 ;Residenze;0;0
+01/11/10;02702;Venezia - Università IUAV;01 ;Mense;0;0
+01/11/10;02702;Venezia - Università IUAV;02 ;Residenze;0;0
+01/11/10;02801;Padova - Università degli studi;01 ;Mense;0;0
+01/11/10;02801;Padova - Università degli studi;02 ;Residenze;0;0
+01/11/10;03001;Udine - Università degli studi;01 ;Mense;0;0
+01/11/10;03001;Udine - Università degli studi;02 ;Residenze;0;0
+01/11/10;03201;Trieste - Università degli studi;01 ;Mense;0;0
+01/11/10;03201;Trieste - Università degli studi;02 ;Residenze;0;0
+01/11/10;03202;Trieste - Scuola internazionale superiore di studi avanzati;01 ;Mense;0;0
+01/11/10;03202;Trieste - Scuola internazionale superiore di studi avanzati;02 ;Residenze;0;0
+01/11/10;03401;Parma - Università degli studi;01 ;Mense;0;0
+01/11/10;03401;Parma - Università degli studi;02 ;Residenze;0;0
+01/11/10;03601;Modena e Reggio Emilia - Università degli studi;01 ;Mense;0;0
+01/11/10;03601;Modena e Reggio Emilia - Università degli studi;02 ;Residenze;1;275
+01/11/10;03701;Bologna - Università degli studi;01 ;Mense;0;0
+01/11/10;03701;Bologna - Università degli studi;02 ;Residenze;1;205
+01/11/10;03801;Ferrara - Università degli studi;01 ;Mense;0;0
+01/11/10;03801;Ferrara - Università degli studi;02 ;Residenze;0;0
+01/11/10;04101;"Urbino - Università degli studi ""Carlo Bo""";01 ;Mense;0;0
+01/11/10;04101;"Urbino - Università degli studi ""Carlo Bo""";02 ;Residenze;0;0
+01/11/10;04201;Ancona - Università Politecnica delle Marche;01 ;Mense;0;0
+01/11/10;04201;Ancona - Università Politecnica delle Marche;02 ;Residenze;0;0
+01/11/10;04301;Macerata - Università degli studi;01 ;Mense;0;0
+01/11/10;04301;Macerata - Università degli studi;02 ;Residenze;6;134
+01/11/10;04302;Camerino - Università degli studi;01 ;Mense;0;0
+01/11/10;04302;Camerino - Università degli studi;02 ;Residenze;0;0
+01/11/10;04601;Lucca - Scuola IMT Alti Studi;01 ;Mense;1;100
+01/11/10;04601;Lucca - Scuola IMT Alti Studi;02 ;Residenze;1;65
+01/11/10;04801;Firenze - Università degli studi;01 ;Mense;0;0
+01/11/10;04801;Firenze - Università degli studi;02 ;Residenze;0;0
+01/11/10;04803;Firenze - Istituto Italiano di Scienze Umane;01 ;Mense;0;0
+01/11/10;04803;Firenze - Istituto Italiano di Scienze Umane;02 ;Residenze;0;0
+01/11/10;04804;"Firenze - Università telematica ""Italian University line""";01 ;Mense;0;0
+01/11/10;04804;"Firenze - Università telematica ""Italian University line""";02 ;Residenze;0;0
+01/11/10;05001;Pisa - Università degli studi;01 ;Mense;0;0
+01/11/10;05001;Pisa - Università degli studi;02 ;Residenze;0;0
+01/11/10;05002;Pisa - Scuola normale superiore;01 ;Mense;1;270
+01/11/10;05002;Pisa - Scuola normale superiore;02 ;Residenze;4;296
+01/11/10;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";01 ;Mense;1;121
+01/11/10;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";02 ;Residenze;2;200
+01/11/10;05201;Siena - Università degli studi;01 ;Mense;1;80
+01/11/10;05201;Siena - Università degli studi;02 ;Residenze;2;150
+01/11/10;05202;Siena - Università per stranieri;01 ;Mense;0;0
+01/11/10;05202;Siena - Università per stranieri;02 ;Residenze;0;0
+01/11/10;05401;Perugia - Università degli studi;01 ;Mense;0;0
+01/11/10;05401;Perugia - Università degli studi;02 ;Residenze;0;0
+01/11/10;05403;Perugia - Università per stranieri;01 ;Mense;0;0
+01/11/10;05403;Perugia - Università per stranieri;02 ;Residenze;0;0
+01/11/10;05601;Viterbo - Università della Tuscia;01 ;Mense;0;0
+01/11/10;05601;Viterbo - Università della Tuscia;02 ;Residenze;0;0
+01/11/10;05801;"Roma - Università degli studi ""La Sapienza""";01 ;Mense;0;0
+01/11/10;05801;"Roma - Università degli studi ""La Sapienza""";02 ;Residenze;0;0
+01/11/10;05802;"Roma - Università degli studi di ""Tor Vergata""";01 ;Mense;0;0
+01/11/10;05802;"Roma - Università degli studi di ""Tor Vergata""";02 ;Residenze;0;0
+01/11/10;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);01 ;Mense;0;0
+01/11/10;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);02 ;Residenze;3;111
+01/11/10;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);01 ;Mense;1;80
+01/11/10;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);02 ;Residenze;2;162
+01/11/10;05806;"Roma - Università degli studi del ""Foro Italico""";01 ;Mense;0;0
+01/11/10;05806;"Roma - Università degli studi del ""Foro Italico""";02 ;Residenze;0;0
+01/11/10;05807;Roma - III Università degli studi;01 ;Mense;0;0
+01/11/10;05807;Roma - III Università degli studi;02 ;Residenze;0;0
+01/11/10;05808;"Roma - Università ""Campus Bio-Medico""";01 ;Mense;0;0
+01/11/10;05808;"Roma - Università ""Campus Bio-Medico""";02 ;Residenze;0;0
+01/11/10;05809;Roma - Libera Università degli studi San Pio V;01 ;Mense;0;0
+01/11/10;05809;Roma - Libera Università degli studi San Pio V;02 ;Residenze;0;0
+01/11/10;05810;"Roma - Università telematica ""Guglielmo Marconi""";01 ;Mense;0;0
+01/11/10;05810;"Roma - Università telematica ""Guglielmo Marconi""";02 ;Residenze;0;0
+01/11/10;05811;"Roma - Università telematica ""TEL.M.A.""";01 ;Mense;-3;-3
+01/11/10;05811;"Roma - Università telematica ""TEL.M.A.""";02 ;Residenze;-3;-3
+01/11/10;05812;Roma - Università Europea;01 ;Mense;0;0
+01/11/10;05812;Roma - Università Europea;02 ;Residenze;0;0
+01/11/10;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";01 ;Mense;0;0
+01/11/10;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";02 ;Residenze;0;0
+01/11/10;05814;Roma - Universitas Mercatorum;01 ;Mense;0;0
+01/11/10;05814;Roma - Universitas Mercatorum;02 ;Residenze;0;0
+01/11/10;05815;Roma - Università telematica delle Scienze Umane UNISU;01 ;Mense;0;0
+01/11/10;05815;Roma - Università telematica delle Scienze Umane UNISU;02 ;Residenze;0;0
+01/11/10;06001;Cassino - Università degli studi;01 ;Mense;0;0
+01/11/10;06001;Cassino - Università degli studi;02 ;Residenze;0;0
+01/11/10;06201;Benevento - Università degli studi del Sannio;01 ;Mense;0;0
+01/11/10;06201;Benevento - Università degli studi del Sannio;02 ;Residenze;1;74
+01/11/10;06202;"Benevento - Università telematica ""Giustino Fortunato""";01 ;Mense;0;0
+01/11/10;06202;"Benevento - Università telematica ""Giustino Fortunato""";02 ;Residenze;0;0
+01/11/10;06301;"Napoli - Università degli studi ""Federico II""";01 ;Mense;0;0
+01/11/10;06301;"Napoli - Università degli studi ""Federico II""";02 ;Residenze;0;0
+01/11/10;06302;"Napoli - Università degli studi ""Parthenope""";01 ;Mense;0;0
+01/11/10;06302;"Napoli - Università degli studi ""Parthenope""";02 ;Residenze;0;0
+01/11/10;06303;"Napoli - Università degli studi ""L' Orientale""";01 ;Mense;0;0
+01/11/10;06303;"Napoli - Università degli studi ""L' Orientale""";02 ;Residenze;0;0
+01/11/10;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";01 ;Mense;0;0
+01/11/10;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";02 ;Residenze;1;80
+01/11/10;06306;Napoli - Seconda Università degli studi;01 ;Mense;0;0
+01/11/10;06306;Napoli - Seconda Università degli studi;02 ;Residenze;0;0
+01/11/10;06307;"Napoli - Università telematica ""Pegaso""";01 ;Mense;0;0
+01/11/10;06307;"Napoli - Università telematica ""Pegaso""";02 ;Residenze;0;0
+01/11/10;06501;Salerno - Università degli studi;01 ;Mense;0;0
+01/11/10;06501;Salerno - Università degli studi;02 ;Residenze;1;20
+01/11/10;06601;L'Aquila - Università degli studi;01 ;Mense;0;0
+01/11/10;06601;L'Aquila - Università degli studi;02 ;Residenze;0;0
+01/11/10;06701;Teramo - Università degli studi;01 ;Mense;0;0
+01/11/10;06701;Teramo - Università degli studi;02 ;Residenze;0;0
+01/11/10;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;01 ;Mense;0;0
+01/11/10;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;02 ;Residenze;0;0
+01/11/10;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";01 ;Mense;0;0
+01/11/10;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";02 ;Residenze;0;0
+01/11/10;07001;Campobasso - Università degli studi del Molise;01 ;Mense;0;0
+01/11/10;07001;Campobasso - Università degli studi del Molise;02 ;Residenze;1;58
+01/11/10;07101;Foggia - Università degli studi;01 ;Mense;0;0
+01/11/10;07101;Foggia - Università degli studi;02 ;Residenze;0;0
+01/11/10;07201;Bari - Università degli studi;01 ;Mense;0;0
+01/11/10;07201;Bari - Università degli studi;02 ;Residenze;0;0
+01/11/10;07202;Bari - Politecnico;01 ;Mense;0;0
+01/11/10;07202;Bari - Politecnico;02 ;Residenze;0;0
+01/11/10;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";01 ;Mense;0;0
+01/11/10;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";02 ;Residenze;0;0
+01/11/10;07501;Lecce - Università del Salento;01 ;Mense;0;0
+01/11/10;07501;Lecce - Università del Salento;02 ;Residenze;0;0
+01/11/10;07601;Potenza - Università degli studi della Basilicata;01 ;Mense;0;0
+01/11/10;07601;Potenza - Università degli studi della Basilicata;02 ;Residenze;0;0
+01/11/10;07801;Arcavacata di Rende - Università della Calabria;01 ;Mense;0;0
+01/11/10;07801;Arcavacata di Rende - Università della Calabria;02 ;Residenze;0;0
+01/11/10;07901;"Catanzaro - Università degli studi ""Magna Grecia""";01 ;Mense;0;0
+01/11/10;07901;"Catanzaro - Università degli studi ""Magna Grecia""";02 ;Residenze;0;0
+01/11/10;08001;Reggio Calabria - Università degli studi Mediterranea;01 ;Mense;0;0
+01/11/10;08001;Reggio Calabria - Università degli studi Mediterranea;02 ;Residenze;0;0
+01/11/10;08003;Reggio Calabria - Università per Stranieri;01 ;Mense;0;0
+01/11/10;08003;Reggio Calabria - Università per Stranieri;02 ;Residenze;0;0
+01/11/10;08201;Palermo - Università degli studi;01 ;Mense;0;0
+01/11/10;08201;Palermo - Università degli studi;02 ;Residenze;0;0
+01/11/10;08301;Messina - Università degli studi;01 ;Mense;0;0
+01/11/10;08301;Messina - Università degli studi;02 ;Residenze;0;0
+01/11/10;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";01 ;Mense;1;150
+01/11/10;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";02 ;Residenze;1;36
+01/11/10;08701;Catania - Università degli studi;01 ;Mense;1;98
+01/11/10;08701;Catania - Università degli studi;02 ;Residenze;1;98
+01/11/10;09001;Sassari - Università degli studi;01 ;Mense;0;0
+01/11/10;09001;Sassari - Università degli studi;02 ;Residenze;0;0
+01/11/10;09201;Cagliari - Università degli studi;01 ;Mense;0;0
+01/11/10;09201;Cagliari - Università degli studi;02 ;Residenze;0;0
+01/11/11;00101;Torino - Università degli studi;01 ;Mense;0;0
+01/11/11;00101;Torino - Università degli studi;02 ;Residenze;0;0
+01/11/11;00102;Torino - Politecnico;01 ;Mense;0;0
+01/11/11;00102;Torino - Politecnico;02 ;Residenze;0;0
+01/11/11;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";01 ;Mense;0;0
+01/11/11;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";02 ;Residenze;0;0
+01/11/11;00401;Bra (CN) - Università di Scienze Gastronomiche;01 ;Mense;0;0
+01/11/11;00401;Bra (CN) - Università di Scienze Gastronomiche;02 ;Residenze;0;0
+01/11/11;00701;Aosta - Università degli studi;01 ;Mense;0;0
+01/11/11;00701;Aosta - Università degli studi;02 ;Residenze;0;0
+01/11/11;01001;Genova - Università degli studi;01 ;Mense;0;0
+01/11/11;01001;Genova - Università degli studi;02 ;Residenze;0;0
+01/11/11;01201;"Castellanza - Università ""Carlo Cattaneo""";01 ;Mense;0;0
+01/11/11;01201;"Castellanza - Università ""Carlo Cattaneo""";02 ;Residenze;0;0
+01/11/11;01202;Varese - Università dell' Insubria;01 ;Mense;0;0
+01/11/11;01202;Varese - Università dell' Insubria;02 ;Residenze;0;0
+01/11/11;01301;"Novedrate (CO) - Università telematica ""e-Campus""";01 ;Mense;1;86
+01/11/11;01301;"Novedrate (CO) - Università telematica ""e-Campus""";02 ;Residenze;1;257
+01/11/11;01501;Milano - Università degli studi;01 ;Mense;0;0
+01/11/11;01501;Milano - Università degli studi;02 ;Residenze;0;0
+01/11/11;01502;Milano - Politecnico;01 ;Mense;0;0
+01/11/11;01502;Milano - Politecnico;02 ;Residenze;16;1364
+01/11/11;01503;"Milano - Università commerciale ""Luigi Bocconi""";01 ;Mense;0;0
+01/11/11;01503;"Milano - Università commerciale ""Luigi Bocconi""";02 ;Residenze;0;0
+01/11/11;01504;"Milano - Università Cattolica del ""Sacro Cuore""";01 ;Mense;0;0
+01/11/11;01504;"Milano - Università Cattolica del ""Sacro Cuore""";02 ;Residenze;0;0
+01/11/11;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);01 ;Mense;1;344
+01/11/11;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);02 ;Residenze;1;14
+01/11/11;01508;Milano - Università Vita-Salute San Raffaele;01 ;Mense;0;0
+01/11/11;01508;Milano - Università Vita-Salute San Raffaele;02 ;Residenze;1;59
+01/11/11;01509;Milano-Bicocca - Università degli studi;01 ;Mense;3;412
+01/11/11;01509;Milano-Bicocca - Università degli studi;02 ;Residenze;0;0
+01/11/11;01601;Bergamo - Università degli studi;01 ;Mense;0;0
+01/11/11;01601;Bergamo - Università degli studi;02 ;Residenze;0;0
+01/11/11;01701;Brescia - Università degli studi;01 ;Mense;0;0
+01/11/11;01701;Brescia - Università degli studi;02 ;Residenze;0;0
+01/11/11;01801;Pavia - Università degli studi;01 ;Mense;0;0
+01/11/11;01801;Pavia - Università degli studi;02 ;Residenze;0;0
+01/11/11;01802;Pavia - Istituto universitario di studi superiori;01 ;Mense;0;0
+01/11/11;01802;Pavia - Istituto universitario di studi superiori;02 ;Residenze;0;0
+01/11/11;02101;Bolzano - Libera Università;01 ;Mense;0;0
+01/11/11;02101;Bolzano - Libera Università;02 ;Residenze;0;0
+01/11/11;02201;Trento - Università degli studi;01 ;Mense;0;0
+01/11/11;02201;Trento - Università degli studi;02 ;Residenze;0;0
+01/11/11;02301;Verona - Università degli studi;01 ;Mense;0;0
+01/11/11;02301;Verona - Università degli studi;02 ;Residenze;0;0
+01/11/11;02701;"Venezia - Università degli studi ""Cà Foscari""";01 ;Mense;0;0
+01/11/11;02701;"Venezia - Università degli studi ""Cà Foscari""";02 ;Residenze;5;98
+01/11/11;02702;Venezia - Università IUAV;01 ;Mense;0;0
+01/11/11;02702;Venezia - Università IUAV;02 ;Residenze;0;0
+01/11/11;02801;Padova - Università degli studi;01 ;Mense;0;0
+01/11/11;02801;Padova - Università degli studi;02 ;Residenze;0;0
+01/11/11;03001;Udine - Università degli studi;01 ;Mense;0;0
+01/11/11;03001;Udine - Università degli studi;02 ;Residenze;0;0
+01/11/11;03201;Trieste - Università degli studi;01 ;Mense;0;0
+01/11/11;03201;Trieste - Università degli studi;02 ;Residenze;0;0
+01/11/11;03202;Trieste - Scuola internazionale superiore di studi avanzati;01 ;Mense;0;0
+01/11/11;03202;Trieste - Scuola internazionale superiore di studi avanzati;02 ;Residenze;0;0
+01/11/11;03401;Parma - Università degli studi;01 ;Mense;0;0
+01/11/11;03401;Parma - Università degli studi;02 ;Residenze;0;0
+01/11/11;03601;Modena e Reggio Emilia - Università degli studi;01 ;Mense;0;0
+01/11/11;03601;Modena e Reggio Emilia - Università degli studi;02 ;Residenze;1;275
+01/11/11;03701;Bologna - Università degli studi;01 ;Mense;0;0
+01/11/11;03701;Bologna - Università degli studi;02 ;Residenze;1;190
+01/11/11;03801;Ferrara - Università degli studi;01 ;Mense;0;0
+01/11/11;03801;Ferrara - Università degli studi;02 ;Residenze;0;0
+01/11/11;04101;"Urbino - Università degli studi ""Carlo Bo""";01 ;Mense;0;0
+01/11/11;04101;"Urbino - Università degli studi ""Carlo Bo""";02 ;Residenze;0;0
+01/11/11;04201;Ancona - Università Politecnica delle Marche;01 ;Mense;0;0
+01/11/11;04201;Ancona - Università Politecnica delle Marche;02 ;Residenze;0;0
+01/11/11;04301;Macerata - Università degli studi;01 ;Mense;0;0
+01/11/11;04301;Macerata - Università degli studi;02 ;Residenze;6;134
+01/11/11;04302;Camerino - Università degli studi;01 ;Mense;0;0
+01/11/11;04302;Camerino - Università degli studi;02 ;Residenze;0;0
+01/11/11;04601;Lucca - Scuola IMT Alti Studi;01 ;Mense;1;100
+01/11/11;04601;Lucca - Scuola IMT Alti Studi;02 ;Residenze;1;72
+01/11/11;04801;Firenze - Università degli studi;01 ;Mense;0;0
+01/11/11;04801;Firenze - Università degli studi;02 ;Residenze;0;0
+01/11/11;04803;Firenze - Istituto Italiano di Scienze Umane;01 ;Mense;0;0
+01/11/11;04803;Firenze - Istituto Italiano di Scienze Umane;02 ;Residenze;0;0
+01/11/11;04804;"Firenze - Università telematica ""Italian University line""";01 ;Mense;0;0
+01/11/11;04804;"Firenze - Università telematica ""Italian University line""";02 ;Residenze;0;0
+01/11/11;05001;Pisa - Università degli studi;01 ;Mense;0;0
+01/11/11;05001;Pisa - Università degli studi;02 ;Residenze;0;0
+01/11/11;05002;Pisa - Scuola normale superiore;01 ;Mense;1;352
+01/11/11;05002;Pisa - Scuola normale superiore;02 ;Residenze;4;339
+01/11/11;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";01 ;Mense;1;121
+01/11/11;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";02 ;Residenze;2;200
+01/11/11;05201;Siena - Università degli studi;01 ;Mense;0;0
+01/11/11;05201;Siena - Università degli studi;02 ;Residenze;2;120
+01/11/11;05202;Siena - Università per stranieri;01 ;Mense;0;0
+01/11/11;05202;Siena - Università per stranieri;02 ;Residenze;0;0
+01/11/11;05401;Perugia - Università degli studi;01 ;Mense;0;0
+01/11/11;05401;Perugia - Università degli studi;02 ;Residenze;0;0
+01/11/11;05403;Perugia - Università per stranieri;01 ;Mense;0;0
+01/11/11;05403;Perugia - Università per stranieri;02 ;Residenze;0;0
+01/11/11;05601;Viterbo - Università della Tuscia;01 ;Mense;0;0
+01/11/11;05601;Viterbo - Università della Tuscia;02 ;Residenze;0;0
+01/11/11;05801;"Roma - Università degli studi ""La Sapienza""";01 ;Mense;0;0
+01/11/11;05801;"Roma - Università degli studi ""La Sapienza""";02 ;Residenze;0;0
+01/11/11;05802;"Roma - Università degli studi di ""Tor Vergata""";01 ;Mense;0;0
+01/11/11;05802;"Roma - Università degli studi di ""Tor Vergata""";02 ;Residenze;0;0
+01/11/11;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);01 ;Mense;0;0
+01/11/11;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);02 ;Residenze;3;111
+01/11/11;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);01 ;Mense;1;80
+01/11/11;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);02 ;Residenze;2;162
+01/11/11;05806;"Roma - Università degli studi del ""Foro Italico""";01 ;Mense;0;0
+01/11/11;05806;"Roma - Università degli studi del ""Foro Italico""";02 ;Residenze;0;0
+01/11/11;05807;Roma - III Università degli studi;01 ;Mense;0;0
+01/11/11;05807;Roma - III Università degli studi;02 ;Residenze;0;0
+01/11/11;05808;"Roma - Università ""Campus Bio-Medico""";01 ;Mense;0;0
+01/11/11;05808;"Roma - Università ""Campus Bio-Medico""";02 ;Residenze;0;0
+01/11/11;05809;Roma - Libera Università degli Studi Per l'Innovazione e le Organizzazioni;01 ;Mense;0;0
+01/11/11;05809;Roma - Libera Università degli Studi Per l'Innovazione e le Organizzazioni;02 ;Residenze;0;0
+01/11/11;05810;"Roma - Università telematica ""Guglielmo Marconi""";01 ;Mense;0;0
+01/11/11;05810;"Roma - Università telematica ""Guglielmo Marconi""";02 ;Residenze;0;0
+01/11/11;05811;"Roma - Università telematica ""Unitelma Sapienza""";01 ;Mense;0;0
+01/11/11;05811;"Roma - Università telematica ""Unitelma Sapienza""";02 ;Residenze;0;0
+01/11/11;05812;Roma - Università Europea;01 ;Mense;0;0
+01/11/11;05812;Roma - Università Europea;02 ;Residenze;0;0
+01/11/11;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";01 ;Mense;0;0
+01/11/11;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";02 ;Residenze;0;0
+01/11/11;05814;Roma - Universitas Mercatorum;01 ;Mense;0;0
+01/11/11;05814;Roma - Universitas Mercatorum;02 ;Residenze;0;0
+01/11/11;05815;Roma - Università telematica delle Scienze Umane UNISU;01 ;Mense;0;0
+01/11/11;05815;Roma - Università telematica delle Scienze Umane UNISU;02 ;Residenze;0;0
+01/11/11;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";01 ;Mense;0;0
+01/11/11;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";02 ;Residenze;0;0
+01/11/11;06001;Cassino - Università degli studi;01 ;Mense;0;0
+01/11/11;06001;Cassino - Università degli studi;02 ;Residenze;0;0
+01/11/11;06201;Benevento - Università degli studi del Sannio;01 ;Mense;0;0
+01/11/11;06201;Benevento - Università degli studi del Sannio;02 ;Residenze;1;74
+01/11/11;06202;"Benevento - Università telematica ""Giustino Fortunato""";01 ;Mense;0;0
+01/11/11;06202;"Benevento - Università telematica ""Giustino Fortunato""";02 ;Residenze;0;0
+01/11/11;06301;"Napoli - Università degli studi ""Federico II""";01 ;Mense;0;0
+01/11/11;06301;"Napoli - Università degli studi ""Federico II""";02 ;Residenze;0;0
+01/11/11;06302;"Napoli - Università degli studi ""Parthenope""";01 ;Mense;0;0
+01/11/11;06302;"Napoli - Università degli studi ""Parthenope""";02 ;Residenze;0;0
+01/11/11;06303;"Napoli - Università degli studi ""L' Orientale""";01 ;Mense;0;0
+01/11/11;06303;"Napoli - Università degli studi ""L' Orientale""";02 ;Residenze;0;0
+01/11/11;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";01 ;Mense;0;0
+01/11/11;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";02 ;Residenze;1;70
+01/11/11;06306;Napoli - Seconda Università degli studi;01 ;Mense;0;0
+01/11/11;06306;Napoli - Seconda Università degli studi;02 ;Residenze;0;0
+01/11/11;06307;"Napoli - Università telematica ""Pegaso""";01 ;Mense;0;0
+01/11/11;06307;"Napoli - Università telematica ""Pegaso""";02 ;Residenze;0;0
+01/11/11;06501;Salerno - Università degli studi;01 ;Mense;0;0
+01/11/11;06501;Salerno - Università degli studi;02 ;Residenze;0;0
+01/11/11;06601;L'Aquila - Università degli studi;01 ;Mense;0;0
+01/11/11;06601;L'Aquila - Università degli studi;02 ;Residenze;0;0
+01/11/11;06701;Teramo - Università degli studi;01 ;Mense;0;0
+01/11/11;06701;Teramo - Università degli studi;02 ;Residenze;0;0
+01/11/11;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;01 ;Mense;0;0
+01/11/11;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;02 ;Residenze;0;0
+01/11/11;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";01 ;Mense;0;0
+01/11/11;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";02 ;Residenze;0;0
+01/11/11;07001;Campobasso - Università degli studi del Molise;01 ;Mense;0;0
+01/11/11;07001;Campobasso - Università degli studi del Molise;02 ;Residenze;1;58
+01/11/11;07101;Foggia - Università degli studi;01 ;Mense;0;0
+01/11/11;07101;Foggia - Università degli studi;02 ;Residenze;0;0
+01/11/11;07201;Bari - Università degli studi;01 ;Mense;0;0
+01/11/11;07201;Bari - Università degli studi;02 ;Residenze;0;0
+01/11/11;07202;Bari - Politecnico;01 ;Mense;0;0
+01/11/11;07202;Bari - Politecnico;02 ;Residenze;0;0
+01/11/11;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";01 ;Mense;0;0
+01/11/11;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";02 ;Residenze;0;0
+01/11/11;07501;Lecce - Università del Salento;01 ;Mense;0;0
+01/11/11;07501;Lecce - Università del Salento;02 ;Residenze;1;56
+01/11/11;07601;Potenza - Università degli studi della Basilicata;01 ;Mense;0;0
+01/11/11;07601;Potenza - Università degli studi della Basilicata;02 ;Residenze;0;0
+01/11/11;07801;Arcavacata di Rende - Università della Calabria;01 ;Mense;0;0
+01/11/11;07801;Arcavacata di Rende - Università della Calabria;02 ;Residenze;0;0
+01/11/11;07901;"Catanzaro - Università degli studi ""Magna Grecia""";01 ;Mense;0;0
+01/11/11;07901;"Catanzaro - Università degli studi ""Magna Grecia""";02 ;Residenze;0;0
+01/11/11;08001;Reggio Calabria - Università degli studi Mediterranea;01 ;Mense;0;0
+01/11/11;08001;Reggio Calabria - Università degli studi Mediterranea;02 ;Residenze;0;0
+01/11/11;08003;Reggio Calabria - Università per Stranieri;01 ;Mense;0;0
+01/11/11;08003;Reggio Calabria - Università per Stranieri;02 ;Residenze;0;0
+01/11/11;08201;Palermo - Università degli studi;01 ;Mense;0;0
+01/11/11;08201;Palermo - Università degli studi;02 ;Residenze;0;0
+01/11/11;08301;Messina - Università degli studi;01 ;Mense;0;0
+01/11/11;08301;Messina - Università degli studi;02 ;Residenze;0;0
+01/11/11;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";01 ;Mense;1;150
+01/11/11;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";02 ;Residenze;1;36
+01/11/11;08701;Catania - Università degli studi;01 ;Mense;1;62
+01/11/11;08701;Catania - Università degli studi;02 ;Residenze;1;97
+01/11/11;09001;Sassari - Università degli studi;01 ;Mense;0;0
+01/11/11;09001;Sassari - Università degli studi;02 ;Residenze;0;0
+01/11/11;09201;Cagliari - Università degli studi;01 ;Mense;0;0
+01/11/11;09201;Cagliari - Università degli studi;02 ;Residenze;0;0
+01/11/12;00101;Torino - Università degli studi;01 ;Mense;0;0
+01/11/12;00101;Torino - Università degli studi;02 ;Residenze;0;0
+01/11/12;00102;Torino - Politecnico;01 ;Mense;0;0
+01/11/12;00102;Torino - Politecnico;02 ;Residenze;0;0
+01/11/12;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";01 ;Mense;0;0
+01/11/12;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";02 ;Residenze;0;0
+01/11/12;00401;Bra (CN) - Università di Scienze Gastronomiche;01 ;Mense;0;0
+01/11/12;00401;Bra (CN) - Università di Scienze Gastronomiche;02 ;Residenze;0;0
+01/11/12;00701;Aosta - Università degli studi;01 ;Mense;0;0
+01/11/12;00701;Aosta - Università degli studi;02 ;Residenze;0;0
+01/11/12;01001;Genova - Università degli studi;01 ;Mense;0;0
+01/11/12;01001;Genova - Università degli studi;02 ;Residenze;0;0
+01/11/12;01201;"Castellanza - Università ""Carlo Cattaneo""";01 ;Mense;0;0
+01/11/12;01201;"Castellanza - Università ""Carlo Cattaneo""";02 ;Residenze;0;0
+01/11/12;01202;Varese - Università dell' Insubria;01 ;Mense;0;0
+01/11/12;01202;Varese - Università dell' Insubria;02 ;Residenze;0;0
+01/11/12;01301;"Novedrate (CO) - Università telematica ""e-Campus""";01 ;Mense;0;0
+01/11/12;01301;"Novedrate (CO) - Università telematica ""e-Campus""";02 ;Residenze;0;0
+01/11/12;01501;Milano - Università degli studi;01 ;Mense;0;0
+01/11/12;01501;Milano - Università degli studi;02 ;Residenze;0;0
+01/11/12;01502;Milano - Politecnico;01 ;Mense;4;912
+01/11/12;01502;Milano - Politecnico;02 ;Residenze;23;1303
+01/11/12;01503;"Milano - Università commerciale ""Luigi Bocconi""";01 ;Mense;0;0
+01/11/12;01503;"Milano - Università commerciale ""Luigi Bocconi""";02 ;Residenze;0;0
+01/11/12;01504;"Milano - Università Cattolica del ""Sacro Cuore""";01 ;Mense;0;0
+01/11/12;01504;"Milano - Università Cattolica del ""Sacro Cuore""";02 ;Residenze;0;0
+01/11/12;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);01 ;Mense;1;344
+01/11/12;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);02 ;Residenze;1;14
+01/11/12;01508;Milano - Università Vita-Salute San Raffaele;01 ;Mense;0;0
+01/11/12;01508;Milano - Università Vita-Salute San Raffaele;02 ;Residenze;2;139
+01/11/12;01509;Milano-Bicocca - Università degli studi;01 ;Mense;3;412
+01/11/12;01509;Milano-Bicocca - Università degli studi;02 ;Residenze;0;0
+01/11/12;01601;Bergamo - Università degli studi;01 ;Mense;0;0
+01/11/12;01601;Bergamo - Università degli studi;02 ;Residenze;0;0
+01/11/12;01701;Brescia - Università degli studi;01 ;Mense;0;0
+01/11/12;01701;Brescia - Università degli studi;02 ;Residenze;0;0
+01/11/12;01801;Pavia - Università degli studi;01 ;Mense;0;0
+01/11/12;01801;Pavia - Università degli studi;02 ;Residenze;0;0
+01/11/12;01802;Pavia - Istituto universitario di studi superiori;01 ;Mense;0;0
+01/11/12;01802;Pavia - Istituto universitario di studi superiori;02 ;Residenze;0;0
+01/11/12;02101;Bolzano - Libera Università;01 ;Mense;0;0
+01/11/12;02101;Bolzano - Libera Università;02 ;Residenze;0;0
+01/11/12;02201;Trento - Università degli studi;01 ;Mense;0;0
+01/11/12;02201;Trento - Università degli studi;02 ;Residenze;0;0
+01/11/12;02301;Verona - Università degli studi;01 ;Mense;0;0
+01/11/12;02301;Verona - Università degli studi;02 ;Residenze;0;0
+01/11/12;02701;"Venezia - Università degli studi ""Cà Foscari""";01 ;Mense;0;0
+01/11/12;02701;"Venezia - Università degli studi ""Cà Foscari""";02 ;Residenze;9;128
+01/11/12;02702;Venezia - Università IUAV;01 ;Mense;0;0
+01/11/12;02702;Venezia - Università IUAV;02 ;Residenze;0;0
+01/11/12;02801;Padova - Università degli studi;01 ;Mense;0;0
+01/11/12;02801;Padova - Università degli studi;02 ;Residenze;0;0
+01/11/12;03001;Udine - Università degli studi;01 ;Mense;0;0
+01/11/12;03001;Udine - Università degli studi;02 ;Residenze;0;0
+01/11/12;03201;Trieste - Università degli studi;01 ;Mense;0;0
+01/11/12;03201;Trieste - Università degli studi;02 ;Residenze;0;0
+01/11/12;03202;Trieste - Scuola internazionale superiore di studi avanzati;01 ;Mense;0;0
+01/11/12;03202;Trieste - Scuola internazionale superiore di studi avanzati;02 ;Residenze;0;0
+01/11/12;03401;Parma - Università degli studi;01 ;Mense;0;0
+01/11/12;03401;Parma - Università degli studi;02 ;Residenze;0;0
+01/11/12;03601;Modena e Reggio Emilia - Università degli studi;01 ;Mense;0;0
+01/11/12;03601;Modena e Reggio Emilia - Università degli studi;02 ;Residenze;0;0
+01/11/12;03701;Bologna - Università degli studi;01 ;Mense;0;0
+01/11/12;03701;Bologna - Università degli studi;02 ;Residenze;1;112
+01/11/12;03801;Ferrara - Università degli studi;01 ;Mense;0;0
+01/11/12;03801;Ferrara - Università degli studi;02 ;Residenze;0;0
+01/11/12;04101;"Urbino - Università degli studi ""Carlo Bo""";01 ;Mense;0;0
+01/11/12;04101;"Urbino - Università degli studi ""Carlo Bo""";02 ;Residenze;0;0
+01/11/12;04201;Ancona - Università Politecnica delle Marche;01 ;Mense;0;0
+01/11/12;04201;Ancona - Università Politecnica delle Marche;02 ;Residenze;2;31
+01/11/12;04301;Macerata - Università degli studi;01 ;Mense;0;0
+01/11/12;04301;Macerata - Università degli studi;02 ;Residenze;5;90
+01/11/12;04302;Camerino - Università degli studi;01 ;Mense;0;0
+01/11/12;04302;Camerino - Università degli studi;02 ;Residenze;0;0
+01/11/12;04601;Lucca - Scuola IMT Alti Studi;01 ;Mense;1;100
+01/11/12;04601;Lucca - Scuola IMT Alti Studi;02 ;Residenze;1;69
+01/11/12;04801;Firenze - Università degli studi;01 ;Mense;0;0
+01/11/12;04801;Firenze - Università degli studi;02 ;Residenze;0;0
+01/11/12;04803;Firenze - Istituto Italiano di Scienze Umane;01 ;Mense;0;0
+01/11/12;04803;Firenze - Istituto Italiano di Scienze Umane;02 ;Residenze;0;0
+01/11/12;04804;"Firenze - Università telematica ""Italian University line""";01 ;Mense;0;0
+01/11/12;04804;"Firenze - Università telematica ""Italian University line""";02 ;Residenze;0;0
+01/11/12;05001;Pisa - Università degli studi;01 ;Mense;0;0
+01/11/12;05001;Pisa - Università degli studi;02 ;Residenze;0;0
+01/11/12;05002;Pisa - Scuola normale superiore;01 ;Mense;1;352
+01/11/12;05002;Pisa - Scuola normale superiore;02 ;Residenze;4;243
+01/11/12;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";01 ;Mense;1;121
+01/11/12;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";02 ;Residenze;3;250
+01/11/12;05201;Siena - Università degli studi;01 ;Mense;0;0
+01/11/12;05201;Siena - Università degli studi;02 ;Residenze;2;135
+01/11/12;05202;Siena - Università per stranieri;01 ;Mense;0;0
+01/11/12;05202;Siena - Università per stranieri;02 ;Residenze;0;0
+01/11/12;05401;Perugia - Università degli studi;01 ;Mense;0;0
+01/11/12;05401;Perugia - Università degli studi;02 ;Residenze;0;0
+01/11/12;05403;Perugia - Università per stranieri;01 ;Mense;0;0
+01/11/12;05403;Perugia - Università per stranieri;02 ;Residenze;0;0
+01/11/12;05601;Viterbo - Università della Tuscia;01 ;Mense;0;0
+01/11/12;05601;Viterbo - Università della Tuscia;02 ;Residenze;0;0
+01/11/12;05801;"Roma - Università degli studi ""La Sapienza""";01 ;Mense;0;0
+01/11/12;05801;"Roma - Università degli studi ""La Sapienza""";02 ;Residenze;0;0
+01/11/12;05802;"Roma - Università degli studi di ""Tor Vergata""";01 ;Mense;0;0
+01/11/12;05802;"Roma - Università degli studi di ""Tor Vergata""";02 ;Residenze;0;0
+01/11/12;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);01 ;Mense;0;0
+01/11/12;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);02 ;Residenze;3;111
+01/11/12;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);01 ;Mense;1;80
+01/11/12;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);02 ;Residenze;2;162
+01/11/12;05806;"Roma - Università degli studi del ""Foro Italico""";01 ;Mense;0;0
+01/11/12;05806;"Roma - Università degli studi del ""Foro Italico""";02 ;Residenze;0;0
+01/11/12;05807;Roma - III Università degli studi;01 ;Mense;0;0
+01/11/12;05807;Roma - III Università degli studi;02 ;Residenze;0;0
+01/11/12;05808;"Roma - Università ""Campus Bio-Medico""";01 ;Mense;0;0
+01/11/12;05808;"Roma - Università ""Campus Bio-Medico""";02 ;Residenze;0;0
+01/11/12;05809;Roma - Libera Università degli Studi Per l'Innovazione e le Organizzazioni;01 ;Mense;0;0
+01/11/12;05809;Roma - Libera Università degli Studi Per l'Innovazione e le Organizzazioni;02 ;Residenze;0;0
+01/11/12;05810;"Roma - Università telematica ""Guglielmo Marconi""";01 ;Mense;0;0
+01/11/12;05810;"Roma - Università telematica ""Guglielmo Marconi""";02 ;Residenze;0;0
+01/11/12;05811;"Roma - Università telematica ""Unitelma Sapienza""";01 ;Mense;0;0
+01/11/12;05811;"Roma - Università telematica ""Unitelma Sapienza""";02 ;Residenze;0;0
+01/11/12;05812;Roma - Università Europea;01 ;Mense;0;0
+01/11/12;05812;Roma - Università Europea;02 ;Residenze;0;0
+01/11/12;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";01 ;Mense;0;0
+01/11/12;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";02 ;Residenze;0;0
+01/11/12;05814;Roma - Universitas Mercatorum;01 ;Mense;0;0
+01/11/12;05814;Roma - Universitas Mercatorum;02 ;Residenze;0;0
+01/11/12;05815;Roma - Università telematica Niccolò Cusano (già UNISU);01 ;Mense;0;0
+01/11/12;05815;Roma - Università telematica Niccolò Cusano (già UNISU);02 ;Residenze;0;0
+01/11/12;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";01 ;Mense;0;0
+01/11/12;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";02 ;Residenze;0;0
+01/11/12;06001;Cassino - Università degli studi;01 ;Mense;0;0
+01/11/12;06001;Cassino - Università degli studi;02 ;Residenze;0;0
+01/11/12;06201;Benevento - Università degli studi del Sannio;01 ;Mense;0;0
+01/11/12;06201;Benevento - Università degli studi del Sannio;02 ;Residenze;0;0
+01/11/12;06202;"Benevento - Università telematica ""Giustino Fortunato""";01 ;Mense;0;0
+01/11/12;06202;"Benevento - Università telematica ""Giustino Fortunato""";02 ;Residenze;0;0
+01/11/12;06301;"Napoli - Università degli studi ""Federico II""";01 ;Mense;0;0
+01/11/12;06301;"Napoli - Università degli studi ""Federico II""";02 ;Residenze;0;0
+01/11/12;06302;"Napoli - Università degli studi ""Parthenope""";01 ;Mense;0;0
+01/11/12;06302;"Napoli - Università degli studi ""Parthenope""";02 ;Residenze;0;0
+01/11/12;06303;"Napoli - Università degli studi ""L' Orientale""";01 ;Mense;0;0
+01/11/12;06303;"Napoli - Università degli studi ""L' Orientale""";02 ;Residenze;0;0
+01/11/12;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";01 ;Mense;0;0
+01/11/12;06304;"Napoli - Istituto Universitario ""Suor Orsola Benincasa""";02 ;Residenze;1;70
+01/11/12;06306;Napoli - Seconda Università degli studi;01 ;Mense;0;0
+01/11/12;06306;Napoli - Seconda Università degli studi;02 ;Residenze;0;0
+01/11/12;06307;"Napoli - Universita telematica ""Pegaso""";01 ;Mense;0;0
+01/11/12;06307;"Napoli - Universita telematica ""Pegaso""";02 ;Residenze;0;0
+01/11/12;06501;Salerno - Università degli studi;01 ;Mense;0;0
+01/11/12;06501;Salerno - Università degli studi;02 ;Residenze;0;0
+01/11/12;06601;L'Aquila - Università degli studi;01 ;Mense;0;0
+01/11/12;06601;L'Aquila - Università degli studi;02 ;Residenze;0;0
+01/11/12;06701;Teramo - Università degli studi;01 ;Mense;0;0
+01/11/12;06701;Teramo - Università degli studi;02 ;Residenze;0;0
+01/11/12;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;01 ;Mense;0;0
+01/11/12;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;02 ;Residenze;0;0
+01/11/12;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";01 ;Mense;0;0
+01/11/12;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";02 ;Residenze;0;0
+01/11/12;07001;Campobasso - Università degli studi del Molise;01 ;Mense;0;0
+01/11/12;07001;Campobasso - Università degli studi del Molise;02 ;Residenze;1;55
+01/11/12;07101;Foggia - Università degli studi;01 ;Mense;0;0
+01/11/12;07101;Foggia - Università degli studi;02 ;Residenze;0;0
+01/11/12;07201;Bari - Università degli studi;01 ;Mense;0;0
+01/11/12;07201;Bari - Università degli studi;02 ;Residenze;0;0
+01/11/12;07202;Bari - Politecnico;01 ;Mense;0;0
+01/11/12;07202;Bari - Politecnico;02 ;Residenze;0;0
+01/11/12;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";01 ;Mense;0;0
+01/11/12;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";02 ;Residenze;0;0
+01/11/12;07501;Lecce - Università del Salento;01 ;Mense;0;0
+01/11/12;07501;Lecce - Università del Salento;02 ;Residenze;1;56
+01/11/12;07601;Potenza - Università degli studi della Basilicata;01 ;Mense;0;0
+01/11/12;07601;Potenza - Università degli studi della Basilicata;02 ;Residenze;0;0
+01/11/12;07801;Arcavacata di Rende - Università della Calabria;01 ;Mense;0;0
+01/11/12;07801;Arcavacata di Rende - Università della Calabria;02 ;Residenze;0;0
+01/11/12;07901;"Catanzaro - Università degli studi ""Magna Grecia""";01 ;Mense;0;0
+01/11/12;07901;"Catanzaro - Università degli studi ""Magna Grecia""";02 ;Residenze;0;0
+01/11/12;08001;Reggio Calabria - Università degli studi Mediterranea;01 ;Mense;0;0
+01/11/12;08001;Reggio Calabria - Università degli studi Mediterranea;02 ;Residenze;0;0
+01/11/12;08003;Reggio Calabria - Università per Stranieri;01 ;Mense;0;0
+01/11/12;08003;Reggio Calabria - Università per Stranieri;02 ;Residenze;0;0
+01/11/12;08201;Palermo - Università degli studi;01 ;Mense;0;0
+01/11/12;08201;Palermo - Università degli studi;02 ;Residenze;0;0
+01/11/12;08301;Messina - Università degli studi;01 ;Mense;0;0
+01/11/12;08301;Messina - Università degli studi;02 ;Residenze;0;0
+01/11/12;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";01 ;Mense;1;150
+01/11/12;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";02 ;Residenze;0;0
+01/11/12;08701;Catania - Università degli studi;01 ;Mense;1;62
+01/11/12;08701;Catania - Università degli studi;02 ;Residenze;1;98
+01/11/12;09001;Sassari - Università degli studi;01 ;Mense;0;0
+01/11/12;09001;Sassari - Università degli studi;02 ;Residenze;0;0
+01/11/12;09201;Cagliari - Università degli studi;01 ;Mense;0;0
+01/11/12;09201;Cagliari - Università degli studi;02 ;Residenze;0;0
+01/11/13;00101;Torino - Università degli studi;01 ;Mense;0;0
+01/11/13;00101;Torino - Università degli studi;02 ;Residenze;0;0
+01/11/13;00101;Torino - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;00101;Torino - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;00102;Torino - Politecnico;01 ;Mense;0;0
+01/11/13;00102;Torino - Politecnico;02 ;Residenze;0;0
+01/11/13;00102;Torino - Politecnico;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;00102;Torino - Politecnico;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";01 ;Mense;0;0
+01/11/13;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";02 ;Residenze;0;0
+01/11/13;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;00201;"Vercelli - Università degli studi del Piemonte orientale ""A. Avogadro""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;00401;Bra (CN) - Università di Scienze Gastronomiche;01 ;Mense;0;0
+01/11/13;00401;Bra (CN) - Università di Scienze Gastronomiche;02 ;Residenze;0;0
+01/11/13;00401;Bra (CN) - Università di Scienze Gastronomiche;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;00401;Bra (CN) - Università di Scienze Gastronomiche;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;00701;Aosta - Università degli studi;01 ;Mense;0;0
+01/11/13;00701;Aosta - Università degli studi;02 ;Residenze;0;0
+01/11/13;00701;Aosta - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;00701;Aosta - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01001;Genova - Università degli studi;01 ;Mense;0;0
+01/11/13;01001;Genova - Università degli studi;02 ;Residenze;0;0
+01/11/13;01001;Genova - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01001;Genova - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01201;"Castellanza - Università ""Carlo Cattaneo""";01 ;Mense;0;0
+01/11/13;01201;"Castellanza - Università ""Carlo Cattaneo""";02 ;Residenze;0;0
+01/11/13;01201;"Castellanza - Università ""Carlo Cattaneo""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01201;"Castellanza - Università ""Carlo Cattaneo""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01202;Varese - Università dell' Insubria;01 ;Mense;0;0
+01/11/13;01202;Varese - Università dell' Insubria;02 ;Residenze;0;0
+01/11/13;01202;Varese - Università dell' Insubria;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01202;Varese - Università dell' Insubria;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01301;"Novedrate (CO) - Università telematica ""e-Campus""";01 ;Mense;0;0
+01/11/13;01301;"Novedrate (CO) - Università telematica ""e-Campus""";02 ;Residenze;0;0
+01/11/13;01301;"Novedrate (CO) - Università telematica ""e-Campus""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01301;"Novedrate (CO) - Università telematica ""e-Campus""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01501;Milano - Università degli studi;01 ;Mense;0;0
+01/11/13;01501;Milano - Università degli studi;02 ;Residenze;0;0
+01/11/13;01501;Milano - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01501;Milano - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01502;Milano - Politecnico;01 ;Mense;0;0
+01/11/13;01502;Milano - Politecnico;02 ;Residenze;1;47
+01/11/13;01502;Milano - Politecnico;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01502;Milano - Politecnico;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01503;"Milano - Università commerciale ""Luigi Bocconi""";01 ;Mense;0;0
+01/11/13;01503;"Milano - Università commerciale ""Luigi Bocconi""";02 ;Residenze;0;0
+01/11/13;01503;"Milano - Università commerciale ""Luigi Bocconi""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01503;"Milano - Università commerciale ""Luigi Bocconi""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01504;"Milano - Università Cattolica del ""Sacro Cuore""";01 ;Mense;0;0
+01/11/13;01504;"Milano - Università Cattolica del ""Sacro Cuore""";02 ;Residenze;0;0
+01/11/13;01504;"Milano - Università Cattolica del ""Sacro Cuore""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01504;"Milano - Università Cattolica del ""Sacro Cuore""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);01 ;Mense;1;344
+01/11/13;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);02 ;Residenze;1;14
+01/11/13;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;14
+01/11/13;01505;Milano - Libera Università di Lingue e Comunicazione (IULM);02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01508;Milano - Università Vita-Salute San Raffaele;01 ;Mense;0;0
+01/11/13;01508;Milano - Università Vita-Salute San Raffaele;02 ;Residenze;2;139
+01/11/13;01508;Milano - Università Vita-Salute San Raffaele;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;78
+01/11/13;01508;Milano - Università Vita-Salute San Raffaele;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01509;Milano-Bicocca - Università degli studi;01 ;Mense;3;412
+01/11/13;01509;Milano-Bicocca - Università degli studi;02 ;Residenze;0;0
+01/11/13;01509;Milano-Bicocca - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01509;Milano-Bicocca - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01601;Bergamo - Università degli studi;01 ;Mense;0;0
+01/11/13;01601;Bergamo - Università degli studi;02 ;Residenze;0;0
+01/11/13;01601;Bergamo - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01601;Bergamo - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01701;Brescia - Università degli studi;01 ;Mense;0;0
+01/11/13;01701;Brescia - Università degli studi;02 ;Residenze;0;0
+01/11/13;01701;Brescia - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01701;Brescia - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01801;Pavia - Università degli studi;01 ;Mense;0;0
+01/11/13;01801;Pavia - Università degli studi;02 ;Residenze;0;0
+01/11/13;01801;Pavia - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01801;Pavia - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;01802;Pavia - Istituto universitario di studi superiori;01 ;Mense;0;0
+01/11/13;01802;Pavia - Istituto universitario di studi superiori;02 ;Residenze;0;0
+01/11/13;01802;Pavia - Istituto universitario di studi superiori;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;01802;Pavia - Istituto universitario di studi superiori;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;02101;Bolzano - Libera Università;01 ;Mense;0;0
+01/11/13;02101;Bolzano - Libera Università;02 ;Residenze;0;0
+01/11/13;02101;Bolzano - Libera Università;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;02101;Bolzano - Libera Università;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;02201;Trento - Università degli studi;01 ;Mense;0;0
+01/11/13;02201;Trento - Università degli studi;02 ;Residenze;0;0
+01/11/13;02201;Trento - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;02201;Trento - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;02301;Verona - Università degli studi;01 ;Mense;0;0
+01/11/13;02301;Verona - Università degli studi;02 ;Residenze;0;0
+01/11/13;02301;Verona - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;02301;Verona - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;02701;"Venezia - Università degli studi ""Cà Foscari""";01 ;Mense;0;0
+01/11/13;02701;"Venezia - Università degli studi ""Cà Foscari""";02 ;Residenze;9;128
+01/11/13;02701;"Venezia - Università degli studi ""Cà Foscari""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;109
+01/11/13;02701;"Venezia - Università degli studi ""Cà Foscari""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;19
+01/11/13;02702;Venezia - Università IUAV;01 ;Mense;0;0
+01/11/13;02702;Venezia - Università IUAV;02 ;Residenze;0;0
+01/11/13;02702;Venezia - Università IUAV;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;02702;Venezia - Università IUAV;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;02801;Padova - Università degli studi;01 ;Mense;0;0
+01/11/13;02801;Padova - Università degli studi;02 ;Residenze;0;0
+01/11/13;02801;Padova - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;02801;Padova - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;03001;Udine - Università degli studi;01 ;Mense;0;0
+01/11/13;03001;Udine - Università degli studi;02 ;Residenze;0;0
+01/11/13;03001;Udine - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;03001;Udine - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;03201;Trieste - Università degli studi;01 ;Mense;0;0
+01/11/13;03201;Trieste - Università degli studi;02 ;Residenze;0;0
+01/11/13;03201;Trieste - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;03201;Trieste - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;03202;Trieste - Scuola internazionale superiore di studi avanzati;01 ;Mense;0;0
+01/11/13;03202;Trieste - Scuola internazionale superiore di studi avanzati;02 ;Residenze;0;0
+01/11/13;03202;Trieste - Scuola internazionale superiore di studi avanzati;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;03202;Trieste - Scuola internazionale superiore di studi avanzati;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;03401;Parma - Università degli studi;01 ;Mense;0;0
+01/11/13;03401;Parma - Università degli studi;02 ;Residenze;0;0
+01/11/13;03401;Parma - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;03401;Parma - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;03601;Modena e Reggio Emilia - Università degli studi;01 ;Mense;0;0
+01/11/13;03601;Modena e Reggio Emilia - Università degli studi;02 ;Residenze;1;30
+01/11/13;03601;Modena e Reggio Emilia - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;30
+01/11/13;03601;Modena e Reggio Emilia - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;03701;Bologna - Università degli studi;01 ;Mense;0;0
+01/11/13;03701;Bologna - Università degli studi;02 ;Residenze;1;108
+01/11/13;03701;Bologna - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;108
+01/11/13;03701;Bologna - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;03801;Ferrara - Università degli studi;01 ;Mense;0;0
+01/11/13;03801;Ferrara - Università degli studi;02 ;Residenze;0;0
+01/11/13;03801;Ferrara - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;03801;Ferrara - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;04101;"Urbino - Università degli studi ""Carlo Bo""";01 ;Mense;0;0
+01/11/13;04101;"Urbino - Università degli studi ""Carlo Bo""";02 ;Residenze;0;0
+01/11/13;04101;"Urbino - Università degli studi ""Carlo Bo""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;04101;"Urbino - Università degli studi ""Carlo Bo""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;04201;Ancona - Università Politecnica delle Marche;01 ;Mense;0;0
+01/11/13;04201;Ancona - Università Politecnica delle Marche;02 ;Residenze;0;0
+01/11/13;04201;Ancona - Università Politecnica delle Marche;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;04201;Ancona - Università Politecnica delle Marche;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;04301;Macerata - Università degli studi;01 ;Mense;0;0
+01/11/13;04301;Macerata - Università degli studi;02 ;Residenze;5;117
+01/11/13;04301;Macerata - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;42
+01/11/13;04301;Macerata - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;9
+01/11/13;04302;Camerino - Università degli studi;01 ;Mense;0;0
+01/11/13;04302;Camerino - Università degli studi;02 ;Residenze;0;0
+01/11/13;04302;Camerino - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;04302;Camerino - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;04601;Lucca - Scuola IMT Alti Studi;01 ;Mense;1;100
+01/11/13;04601;Lucca - Scuola IMT Alti Studi;02 ;Residenze;1;121
+01/11/13;04601;Lucca - Scuola IMT Alti Studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;66
+01/11/13;04601;Lucca - Scuola IMT Alti Studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;04801;Firenze - Università degli studi;01 ;Mense;0;0
+01/11/13;04801;Firenze - Università degli studi;02 ;Residenze;0;0
+01/11/13;04801;Firenze - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;04801;Firenze - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;04803;Firenze - Istituto Italiano di Scienze Umane;01 ;Mense;0;0
+01/11/13;04803;Firenze - Istituto Italiano di Scienze Umane;02 ;Residenze;0;0
+01/11/13;04803;Firenze - Istituto Italiano di Scienze Umane;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;04803;Firenze - Istituto Italiano di Scienze Umane;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;04804;"Firenze - Università telematica ""Italian University line""";01 ;Mense;0;0
+01/11/13;04804;"Firenze - Università telematica ""Italian University line""";02 ;Residenze;0;0
+01/11/13;04804;"Firenze - Università telematica ""Italian University line""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;04804;"Firenze - Università telematica ""Italian University line""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05001;Pisa - Università degli studi;01 ;Mense;0;0
+01/11/13;05001;Pisa - Università degli studi;02 ;Residenze;0;0
+01/11/13;05001;Pisa - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05001;Pisa - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05002;Pisa - Scuola normale superiore;01 ;Mense;1;352
+01/11/13;05002;Pisa - Scuola normale superiore;02 ;Residenze;4;249
+01/11/13;05002;Pisa - Scuola normale superiore;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;215
+01/11/13;05002;Pisa - Scuola normale superiore;02b;Residenze - di cui posti assegnati a studenti in mobilità;;24
+01/11/13;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";01 ;Mense;1;121
+01/11/13;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";02 ;Residenze;3;250
+01/11/13;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;250
+01/11/13;05003;"Pisa - Scuola superiore studi universitari e perfezionamento ""S. Anna""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05201;Siena - Università degli studi;01 ;Mense;0;0
+01/11/13;05201;Siena - Università degli studi;02 ;Residenze;2;136
+01/11/13;05201;Siena - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;53
+01/11/13;05201;Siena - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05202;Siena - Università per stranieri;01 ;Mense;0;0
+01/11/13;05202;Siena - Università per stranieri;02 ;Residenze;0;0
+01/11/13;05202;Siena - Università per stranieri;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05202;Siena - Università per stranieri;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05401;Perugia - Università degli studi;01 ;Mense;0;0
+01/11/13;05401;Perugia - Università degli studi;02 ;Residenze;0;0
+01/11/13;05401;Perugia - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05401;Perugia - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05403;Perugia - Università per stranieri;01 ;Mense;0;0
+01/11/13;05403;Perugia - Università per stranieri;02 ;Residenze;0;0
+01/11/13;05403;Perugia - Università per stranieri;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05403;Perugia - Università per stranieri;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05601;Viterbo - Università della Tuscia;01 ;Mense;0;0
+01/11/13;05601;Viterbo - Università della Tuscia;02 ;Residenze;0;0
+01/11/13;05601;Viterbo - Università della Tuscia;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05601;Viterbo - Università della Tuscia;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05801;"Roma - Università degli studi ""La Sapienza""";01 ;Mense;0;0
+01/11/13;05801;"Roma - Università degli studi ""La Sapienza""";02 ;Residenze;0;0
+01/11/13;05801;"Roma - Università degli studi ""La Sapienza""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05801;"Roma - Università degli studi ""La Sapienza""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05802;"Roma - Università degli studi di ""Tor Vergata""";01 ;Mense;0;0
+01/11/13;05802;"Roma - Università degli studi di ""Tor Vergata""";02 ;Residenze;0;0
+01/11/13;05802;"Roma - Università degli studi di ""Tor Vergata""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05802;"Roma - Università degli studi di ""Tor Vergata""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);01 ;Mense;0;0
+01/11/13;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);02 ;Residenze;0;0
+01/11/13;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05803;Roma - Libera Università Maria SS.Assunta (LUMSA);02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);01 ;Mense;1;80
+01/11/13;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);02 ;Residenze;2;162
+01/11/13;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;162
+01/11/13;05805;Roma - Libera Università internazionale degli studi sociali Guido Carli (LUISS);02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05806;"Roma - Università degli studi del ""Foro Italico""";01 ;Mense;0;0
+01/11/13;05806;"Roma - Università degli studi del ""Foro Italico""";02 ;Residenze;0;0
+01/11/13;05806;"Roma - Università degli studi del ""Foro Italico""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05806;"Roma - Università degli studi del ""Foro Italico""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05807;Roma - III Università degli studi;01 ;Mense;0;0
+01/11/13;05807;Roma - III Università degli studi;02 ;Residenze;0;0
+01/11/13;05807;Roma - III Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05807;Roma - III Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05808;"Roma - Università ""Campus Bio-Medico""";01 ;Mense;0;0
+01/11/13;05808;"Roma - Università ""Campus Bio-Medico""";02 ;Residenze;0;0
+01/11/13;05808;"Roma - Università ""Campus Bio-Medico""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05808;"Roma - Università ""Campus Bio-Medico""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05809;Roma - Università degli Studi Internazionali  UNINT;01 ;Mense;0;0
+01/11/13;05809;Roma - Università degli Studi Internazionali  UNINT;02 ;Residenze;0;0
+01/11/13;05809;Roma - Università degli Studi Internazionali  UNINT;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05809;Roma - Università degli Studi Internazionali  UNINT;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05810;"Roma - Università telematica ""Guglielmo Marconi""";01 ;Mense;0;0
+01/11/13;05810;"Roma - Università telematica ""Guglielmo Marconi""";02 ;Residenze;0;0
+01/11/13;05810;"Roma - Università telematica ""Guglielmo Marconi""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05810;"Roma - Università telematica ""Guglielmo Marconi""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05811;"Roma - Università telematica ""Unitelma Sapienza""";01 ;Mense;0;0
+01/11/13;05811;"Roma - Università telematica ""Unitelma Sapienza""";02 ;Residenze;0;0
+01/11/13;05811;"Roma - Università telematica ""Unitelma Sapienza""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05811;"Roma - Università telematica ""Unitelma Sapienza""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05812;Roma - Università Europea;01 ;Mense;0;0
+01/11/13;05812;Roma - Università Europea;02 ;Residenze;0;0
+01/11/13;05812;Roma - Università Europea;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05812;Roma - Università Europea;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";01 ;Mense;0;0
+01/11/13;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";02 ;Residenze;0;0
+01/11/13;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05813;"Roma - Università telematica internazionale ""UNINETTUNO""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05814;Roma - Universitas Mercatorum;01 ;Mense;0;0
+01/11/13;05814;Roma - Universitas Mercatorum;02 ;Residenze;0;0
+01/11/13;05814;Roma - Universitas Mercatorum;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05814;Roma - Universitas Mercatorum;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05815;Roma - Università telematica Niccolò Cusano (già UNISU);01 ;Mense;1;230
+01/11/13;05815;Roma - Università telematica Niccolò Cusano (già UNISU);02 ;Residenze;1;146
+01/11/13;05815;Roma - Università telematica Niccolò Cusano (già UNISU);02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05815;Roma - Università telematica Niccolò Cusano (già UNISU);02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";01 ;Mense;0;0
+01/11/13;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";02 ;Residenze;0;0
+01/11/13;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05816;"Roma - Università telematica ""San Raffaele"" - già ""UNITEL""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;05817;Roma - Link Campus University;01 ;Mense;0;0
+01/11/13;05817;Roma - Link Campus University;02 ;Residenze;0;0
+01/11/13;05817;Roma - Link Campus University;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;05817;Roma - Link Campus University;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06001;Cassino - Università degli studi;01 ;Mense;0;0
+01/11/13;06001;Cassino - Università degli studi;02 ;Residenze;0;0
+01/11/13;06001;Cassino - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06001;Cassino - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06201;Benevento - Università degli studi del Sannio;01 ;Mense;0;0
+01/11/13;06201;Benevento - Università degli studi del Sannio;02 ;Residenze;0;0
+01/11/13;06201;Benevento - Università degli studi del Sannio;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06201;Benevento - Università degli studi del Sannio;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06202;"Benevento - Università telematica ""Giustino Fortunato""";01 ;Mense;0;0
+01/11/13;06202;"Benevento - Università telematica ""Giustino Fortunato""";02 ;Residenze;0;0
+01/11/13;06202;"Benevento - Università telematica ""Giustino Fortunato""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06202;"Benevento - Università telematica ""Giustino Fortunato""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06301;"Napoli - Università degli studi ""Federico II""";01 ;Mense;0;0
+01/11/13;06301;"Napoli - Università degli studi ""Federico II""";02 ;Residenze;0;0
+01/11/13;06301;"Napoli - Università degli studi ""Federico II""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06301;"Napoli - Università degli studi ""Federico II""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06302;"Napoli - Università degli studi ""Parthenope""";01 ;Mense;0;0
+01/11/13;06302;"Napoli - Università degli studi ""Parthenope""";02 ;Residenze;0;0
+01/11/13;06302;"Napoli - Università degli studi ""Parthenope""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06302;"Napoli - Università degli studi ""Parthenope""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06303;"Napoli - Università degli studi ""L' Orientale""";01 ;Mense;0;0
+01/11/13;06303;"Napoli - Università degli studi ""L' Orientale""";02 ;Residenze;0;0
+01/11/13;06303;"Napoli - Università degli studi ""L' Orientale""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06303;"Napoli - Università degli studi ""L' Orientale""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06304;"Napoli - Università degli studi ""Suor Orsola Benincasa""";01 ;Mense;0;0
+01/11/13;06304;"Napoli - Università degli studi ""Suor Orsola Benincasa""";02 ;Residenze;1;80
+01/11/13;06304;"Napoli - Università degli studi ""Suor Orsola Benincasa""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;14
+01/11/13;06304;"Napoli - Università degli studi ""Suor Orsola Benincasa""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;15
+01/11/13;06306;Napoli - Seconda Università degli studi;01 ;Mense;0;0
+01/11/13;06306;Napoli - Seconda Università degli studi;02 ;Residenze;0;0
+01/11/13;06306;Napoli - Seconda Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06306;Napoli - Seconda Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06307;"Napoli - Universita telematica ""Pegaso""";01 ;Mense;0;0
+01/11/13;06307;"Napoli - Universita telematica ""Pegaso""";02 ;Residenze;0;0
+01/11/13;06307;"Napoli - Universita telematica ""Pegaso""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06307;"Napoli - Universita telematica ""Pegaso""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06501;Salerno - Università degli studi;01 ;Mense;0;0
+01/11/13;06501;Salerno - Università degli studi;02 ;Residenze;0;0
+01/11/13;06501;Salerno - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06501;Salerno - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06601;L'Aquila - Università degli studi;01 ;Mense;0;0
+01/11/13;06601;L'Aquila - Università degli studi;02 ;Residenze;0;0
+01/11/13;06601;L'Aquila - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06601;L'Aquila - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06701;Teramo - Università degli studi;01 ;Mense;0;0
+01/11/13;06701;Teramo - Università degli studi;02 ;Residenze;0;0
+01/11/13;06701;Teramo - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06701;Teramo - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;01 ;Mense;0;0
+01/11/13;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;02 ;Residenze;0;0
+01/11/13;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06901;Chieti e Pescara - Università degli studi Gabriele D'Annunzio;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";01 ;Mense;0;0
+01/11/13;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";02 ;Residenze;0;0
+01/11/13;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;06902;"Torrevecchia Teatina (CH) - Università telematica ""Leonardo da Vinci""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;07001;Campobasso - Università degli studi del Molise;01 ;Mense;0;0
+01/11/13;07001;Campobasso - Università degli studi del Molise;02 ;Residenze;3;150
+01/11/13;07001;Campobasso - Università degli studi del Molise;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;114
+01/11/13;07001;Campobasso - Università degli studi del Molise;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;07101;Foggia - Università degli studi;01 ;Mense;0;0
+01/11/13;07101;Foggia - Università degli studi;02 ;Residenze;0;0
+01/11/13;07101;Foggia - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;07101;Foggia - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;07201;Bari - Università degli studi;01 ;Mense;0;0
+01/11/13;07201;Bari - Università degli studi;02 ;Residenze;0;0
+01/11/13;07201;Bari - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;07201;Bari - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;07202;Bari - Politecnico;01 ;Mense;0;0
+01/11/13;07202;Bari - Politecnico;02 ;Residenze;0;0
+01/11/13;07202;Bari - Politecnico;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;07202;Bari - Politecnico;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";01 ;Mense;0;0
+01/11/13;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";02 ;Residenze;0;0
+01/11/13;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;07203;"Casamassima - Libera Università Mediterranea ""Jean Monnet""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;07501;Lecce - Università del Salento;01 ;Mense;0;0
+01/11/13;07501;Lecce - Università del Salento;02 ;Residenze;3;68
+01/11/13;07501;Lecce - Università del Salento;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;56
+01/11/13;07501;Lecce - Università del Salento;02b;Residenze - di cui posti assegnati a studenti in mobilità;;2
+01/11/13;07601;Potenza - Università degli studi della Basilicata;01 ;Mense;0;0
+01/11/13;07601;Potenza - Università degli studi della Basilicata;02 ;Residenze;0;0
+01/11/13;07601;Potenza - Università degli studi della Basilicata;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;07601;Potenza - Università degli studi della Basilicata;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;07801;Arcavacata di Rende - Università della Calabria;01 ;Mense;0;0
+01/11/13;07801;Arcavacata di Rende - Università della Calabria;02 ;Residenze;0;0
+01/11/13;07801;Arcavacata di Rende - Università della Calabria;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;07801;Arcavacata di Rende - Università della Calabria;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;07901;"Catanzaro - Università degli studi ""Magna Grecia""";01 ;Mense;0;0
+01/11/13;07901;"Catanzaro - Università degli studi ""Magna Grecia""";02 ;Residenze;0;0
+01/11/13;07901;"Catanzaro - Università degli studi ""Magna Grecia""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;07901;"Catanzaro - Università degli studi ""Magna Grecia""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;08001;Reggio Calabria - Università degli studi Mediterranea;01 ;Mense;0;0
+01/11/13;08001;Reggio Calabria - Università degli studi Mediterranea;02 ;Residenze;0;0
+01/11/13;08001;Reggio Calabria - Università degli studi Mediterranea;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;08001;Reggio Calabria - Università degli studi Mediterranea;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;08003;Reggio Calabria - Università per Stranieri;01 ;Mense;0;0
+01/11/13;08003;Reggio Calabria - Università per Stranieri;02 ;Residenze;0;0
+01/11/13;08003;Reggio Calabria - Università per Stranieri;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;08003;Reggio Calabria - Università per Stranieri;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;08201;Palermo - Università degli studi;01 ;Mense;0;0
+01/11/13;08201;Palermo - Università degli studi;02 ;Residenze;1;20
+01/11/13;08201;Palermo - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;08201;Palermo - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;20
+01/11/13;08301;Messina - Università degli studi;01 ;Mense;0;0
+01/11/13;08301;Messina - Università degli studi;02 ;Residenze;0;0
+01/11/13;08301;Messina - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;08301;Messina - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";01 ;Mense;0;0
+01/11/13;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";02 ;Residenze;0;0
+01/11/13;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;08601;"Enna - Libera Università della Sicilia Centrale ""KORE""";02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;08701;Catania - Università degli studi;01 ;Mense;1;62
+01/11/13;08701;Catania - Università degli studi;02 ;Residenze;1;98
+01/11/13;08701;Catania - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;69
+01/11/13;08701;Catania - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;09001;Sassari - Università degli studi;01 ;Mense;0;0
+01/11/13;09001;Sassari - Università degli studi;02 ;Residenze;0;0
+01/11/13;09001;Sassari - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;09001;Sassari - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
+01/11/13;09201;Cagliari - Università degli studi;01 ;Mense;0;0
+01/11/13;09201;Cagliari - Università degli studi;02 ;Residenze;0;0
+01/11/13;09201;Cagliari - Università degli studi;02a;Residenze - di cui posti assegnati a studenti dell'ateneo;;0
+01/11/13;09201;Cagliari - Università degli studi;02b;Residenze - di cui posti assegnati a studenti in mobilità;;0
