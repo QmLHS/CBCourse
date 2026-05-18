@@ -476,3 +476,20 @@ figures/
 logs/
 outputs/
 SHARE_*/
+
+# ── CBCourse-specific: source files stay in CBCourseSrc, not here ─────────────
+# LaTeX sources and style files (private — edit in CBCourseSrc)
+*.tex
+*.sty
+# Jupyter notebooks (exercises use plain .py scripts, not notebooks)
+*.ipynb
+# Internal / build support files
+CLAUDE.md
+readyLecturePublish.zsh
+# Additional LaTeX build artefacts
+*.xdv
+*.nav
+*.snm
+*.vrb
+*.toc
+# NOTE: *.py is intentionally NOT ignored — Python example scripts are published
