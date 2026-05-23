@@ -1,4 +1,4 @@
-nFileParole = 'listaParoleIta.txt'
+nFileParole = 'data/listaParoleIta.txt'
 with open(nFileParole, 'r') as stream:
     lParole = stream.readlines()
     stream.close()

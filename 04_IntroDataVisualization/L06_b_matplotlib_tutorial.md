@@ -15,7 +15,7 @@ import numpy as np
 ## Caricare e preparare i dati
 
 ```python
-df = pd.read_csv("MeteoMilano.csv",
+df = pd.read_csv("data/MeteoMilano.csv",
                  parse_dates=["CET"])       # parse date column at load time
 df.columns = df.columns.str.strip()        # remove leading/trailing spaces
 
@@ -581,7 +581,7 @@ import matplotlib.ticker as ticker
 import numpy as np
 
 # --- Caricamento e pulizia ---
-df = pd.read_csv("MeteoMilano.csv",
+df = pd.read_csv("data/MeteoMilano.csv",
                  parse_dates=["CET"])
 df.columns = df.columns.str.strip()
 df = df.rename(columns={

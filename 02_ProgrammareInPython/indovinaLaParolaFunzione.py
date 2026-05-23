@@ -40,7 +40,7 @@ def verificaInserimento(pTentativo, pDaIndovinare, stop=False, guessed=False):
     return (stop, guessed)
 
 
-fileName = "listaParoleIta.txt"
+fileName = "data/listaParoleIta.txt"
 listaParole = loadFile(fileName)
 
 parolaDaIndovinare = estraiParola(listaParole)

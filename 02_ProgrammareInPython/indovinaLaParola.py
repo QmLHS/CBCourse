@@ -1,6 +1,6 @@
 import numpy as np
 
-fileName = "listaParoleIta.txt"
+fileName = "data/listaParoleIta.txt"
 
 with open(fileName, "r") as fileParole:
     listaParole = fileParole.readlines()
