@@ -1,0 +1,15 @@
+Kind> Stoc # Stoc = stocahastic | Det = deterministic
+Rules> # here start the rewriting rules declaration; one on each line; 
+A -> B; 1 # one rule each line with the ";" to separate the rate constant
+2*B -> C; 5e-3 # the accepted syntax is: integer * Species + ... +  integer * Species -> integer * Species + ... +  integer * Species
+C -> ; 0.009 # the word "lambda" or an empty side means "nothing" (C goes to nothing)
+<Rules # here ends the rewriting rules declaration
+
+X0> # here start the initial species concentration/copy number declaration
+A = 1000 # one species each line. Undecleared Species are initialized with 0 
+B = 0 # 
+<X0 # here ends the Species initialization
+
+XFeed> # here starts the declaration for the feeding species. One per line, only the symbol
+A # this means that the species A will be kept at a constat value during the simulations
+<XFeed # here ends the declaration of the feeding species
