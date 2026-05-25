@@ -1,8 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+from pathlib import Path
 
 plt.style.use("lecturesOliveFluo")
+
+IMGDIR = Path.home() / "Images"
 
 dCols = {
     "text":    "#CFD4C5",
@@ -17,7 +20,7 @@ dCols = {
 }
 
 # ---------- data ----------
-df = pd.read_csv("MeteoMilano.csv", parse_dates=["CET"])
+df = pd.read_csv("data/MeteoMilano.csv", parse_dates=["CET"])
 df.columns = df.columns.str.strip()
 df = df.rename(columns={
     "CET":                "date",
@@ -59,7 +62,7 @@ ax.set_ylabel("Temperature (°C)")
 ax.set_title("Line Plot")
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_line_minimal.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_line_minimal.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -73,7 +76,7 @@ ax.set_ylabel("Max temperature (°C)")
 ax.set_title("Scatter Plot")
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_scatter_minimal.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_scatter_minimal.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -94,7 +97,7 @@ ax.set_xlabel("Days")
 ax.set_title("Horizontal Bar Chart")
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_barh_minimal.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_barh_minimal.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -108,7 +111,7 @@ ax.set_ylabel("Count")
 ax.set_title("Histogram")
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_histogram_minimal.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_histogram_minimal.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -130,7 +133,7 @@ ax.set_title("Box Plot")
 ax.tick_params(axis="x", rotation=45)
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_boxplot_minimal.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_boxplot_minimal.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -153,7 +156,7 @@ ax.set_ylabel("Max temperature (°C)")
 ax.set_title("Violin Plot")
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_violin_minimal.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_violin_minimal.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -177,7 +180,7 @@ ax.set_ylabel("Mean temperature (°C)")
 ax.set_title("Error Bars & Ribbon")
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_errorbars_minimal.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_errorbars_minimal.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -201,5 +204,5 @@ ax.set_xlabel("Year")
 ax.set_ylabel("Month")
 ax.set_title("Heatmap")
 fig.tight_layout()
-fig.savefig("plot_heatmap_minimal.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_heatmap_minimal.pdf", **SAVE)
 plt.close()

@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-fileName = 'MeteoMilano.csv'
+fileName = 'data/MeteoMilano.csv'
 
 fileDati = open(fileName, 'r')
 fileLines = fileDati.readlines()

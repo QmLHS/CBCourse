@@ -4,7 +4,7 @@ import scipy.optimize as opt
 import matplotlib.pyplot as plt
 import sys
 
-rawDataFile = "Grezzi.xls"
+rawDataFile = "data/Grezzi.xls"
 # Proviamo a caricare i dati e vedere cosa contiene il df
 datiRaw = pd.read_excel(rawDataFile)
 print(datiRaw)

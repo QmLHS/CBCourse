@@ -1,8 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+from pathlib import Path
 
 plt.style.use("lecturesOliveFluo")
+
+IMGDIR = Path.home() / "Images"
 
 dCols = {
     "text":    "#CFD4C5",
@@ -17,7 +20,7 @@ dCols = {
 }
 
 # ---------- data ----------
-df = pd.read_csv("MeteoMilano.csv")
+df = pd.read_csv("data/MeteoMilano.csv")
 df.columns = df.columns.str.strip()
 df = df.rename(columns={
     "CET":                "date",
@@ -65,7 +68,7 @@ ax.set_title("Line Plot — daily temperature 2015")
 ax.legend(frameon=False)
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_line.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_line.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -81,7 +84,7 @@ ax.set_ylabel("Max temperature (°C)")
 ax.set_title("Scatter Plot — Tmin vs Tmax")
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_scatter.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_scatter.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -96,7 +99,7 @@ ax.set_title("Bar Chart — monthly mean temperature")
 ax.tick_params(axis="x", rotation=45)
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_bar.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_bar.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -113,7 +116,7 @@ ax.set_title("Histogram — Tmax distribution")
 ax.legend(frameon=False)
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_histogram.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_histogram.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -143,7 +146,7 @@ ax.set_title("Box Plot — Tmax by month")
 ax.tick_params(axis="x", rotation=45)
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_boxplot.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_boxplot.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -166,7 +169,7 @@ ax.set_ylabel("Max temperature (°C)")
 ax.set_title("Violin Plot — Tmax by month")
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_violin.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_violin.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -192,7 +195,7 @@ ax.set_title("Error Bars & Ribbon — monthly mean ± 1 SD")
 ax.legend(frameon=False)
 tidy(ax)
 fig.tight_layout()
-fig.savefig("plot_errorbars.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_errorbars.pdf", **SAVE)
 plt.close()
 
 # ================================================================
@@ -216,5 +219,5 @@ ax.set_xlabel("Year")
 ax.set_ylabel("Month")
 ax.set_title("Heatmap — mean Tmax by month and year")
 fig.tight_layout()
-fig.savefig("plot_heatmap.pdf", **SAVE)
+fig.savefig(IMGDIR / "plot_heatmap.pdf", **SAVE)
 plt.close()

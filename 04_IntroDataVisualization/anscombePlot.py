@@ -2,8 +2,11 @@ import pandas as pd
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
+from pathlib import Path
 
 plt.style.use('lecturesOliveFluo')
+
+IMGDIR = Path.home() / "Images"
 
 
 # cyan glow                   `#0FFFFF`
@@ -46,7 +49,7 @@ dCols = {
     "red": "#F88379"
 }
 
-quartet = pd.read_csv("anscombe1973.csv", comment="#")
+quartet = pd.read_csv("data/anscombe1973.csv", comment="#")
 
 datasets = ["I", "II", "III", "IV"]
 
@@ -80,4 +83,4 @@ for ax, label in zip(axes.flat, datasets):
 
 fig.suptitle("Anscombe's Quartet (1973)", fontsize=13, fontweight="bold")
 fig.tight_layout()
-fig.savefig("anscombeQuartetPlot.pdf", bbox_inches="tight")
+fig.savefig(IMGDIR / "anscombeQuartetPlot.pdf", bbox_inches="tight")

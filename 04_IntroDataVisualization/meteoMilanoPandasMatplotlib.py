@@ -8,7 +8,7 @@ import datetime
     # pd.read_csv('MeteoMilano.csv',
                 # converters={0: lambda d:
                             # datetime.datetime.strptime(d, "%Y-%m-%d")})
-dfMeteoMilano = pd.read_csv('MeteoMilano.csv', parse_dates=['CET'])
+dfMeteoMilano = pd.read_csv('data/MeteoMilano.csv', parse_dates=['CET'])
 print(dfMeteoMilano.info())
 
 figTemp = plt.figure(figsize=(15, 9))

@@ -4,7 +4,7 @@ import scipy.optimize as opt
 import matplotlib.pyplot as plt
 import sys
 
-rawDataFile = "Grezzi.xls"
+rawDataFile = "data/Grezzi.xls"
 lColonne = ["time", "OD", "Glc", "etoh", "Glu", "AKG", "Gly", "Fum"]
 
 # Si ottiene un dizionario di dataframe

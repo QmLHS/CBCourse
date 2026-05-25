@@ -12,7 +12,7 @@ colorDict = {
     'pink': '#F267B2'
 }
 
-fileName = 'ita-Popolazione_per_eta_-_Ripartizione_Italia2017.csv'
+fileName = 'data/ita-Popolazione_per_eta_-_Ripartizione_Italia2017.csv'
 
 # il più semplice = meno automatico
 with open(fileName, 'r') as stream:
